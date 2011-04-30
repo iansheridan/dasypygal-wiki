@@ -7,6 +7,7 @@ require 'compass'
 require 'pony'
 require 'hashie'
 require 'erb' # is not a gem
+require 'net/http' # is not a gem
 
 # put the LIB directory on the load path
 $LOAD_PATH.unshift(File.dirname(__FILE__) + '/lib')
@@ -18,6 +19,7 @@ Compass.configuration do |config|
 end
 Wiki = Hashie::Mash.new
 Wiki.root = File.dirname(__FILE__)
+Wiki.wiki = Gollum::Wiki.new(Wiki.root, :base_path => '/wiki')
 
 # load application parts ============================================
 load 'models.rb'
