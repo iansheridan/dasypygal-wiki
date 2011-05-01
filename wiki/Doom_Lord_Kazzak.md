@@ -1,0 +1,1 @@
+[http://www.wowwiki.com/Doom_Lord_Kazzak_%28tactics%29 Wowwiki.com :: Doom Lord Kazzak]
