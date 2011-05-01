@@ -1,8 +1,5 @@
-{| align="right"
-  | __TOC__
-  |}
+##  About Dasypygal Gentlemen 
 
-== About Dasypygal Gentlemen ==
 We are an Alliance Guild of dwarves, gnomes and humans (oh we have a bunch of hairy night-elves also but don’t tell anyone  ). Our name might seem like we are a male oriented guild but that was ignored by all the beautiful ladies that have join our illustrious guild (hehe hair is had by all you know). Read the history section to find out the origin of our illustrious guild. It is also suggested that you look up the meaning of the word Dasypygal. (trust me look it up now)
 
 Mainly we are a mature group of gamers looking to have a good time. That said, we are on most evenings after 7-8 o’clock EST. 
@@ -11,38 +8,44 @@ Our raid times are 8:30PM to Midnight : Server time : Monday-Thursday.
 
 '''''Dasypygal Gentlemen is the support structure that will assist the growth of your character.'''''
 
-==D'Gentlemen General Information==
-*[[Our History]]
-*[[Ranks]]
-*[[Officers]]
+## D'Gentlemen General Information
 
-==Policies and Procedures==
-*[[How to join D'Gentlemen]]
-*[[Archived Hairy Codes]]
-*[[Raiding]]
+  *[[Our_History]]
+  *[[Ranks]]
+  *[[Officers]]
 
-==Current Raid Focus==
-*[[Blackwing Descent]]
-*[[Bastion of Twilight]]
-*[[Throne of the Four Winds]]
+## Policies and Procedures
 
-== Class Guides ==
+  *[[How_to_join_D'Gentlemen]]
+  *[[Archived_Hairy_Codes]]
+  *[[Raiding]]
 
-===All Classes===
-[[Class Channels]] : ''in game chat channels for all classes and roles''
+## Current Raid Focus
+
+  *[[Blackwing_Descent]]
+  *[[Bastion_of_Twilight]]
+  *[[Throne_of_the_Four_Winds]]
+
+##  Class Guides 
+
+### All Classes
+
+[[Class_Channels]] : ''in game chat channels for all classes and roles''
 
 
-===Class Specific Wiki's===
-*[[Druid]]
-*[[Hunter]]
-*[[Mage]]
-*[[Paladin]]
-*[[Priest]]
-*[[Rogue]]
-*[[Shaman]]
-*[[Warlock]]
-*[[Warrior]]
-*[[Death Knight]]
+### Class Specific Wiki's
 
-==Just for Fun==
-*[[Famous DG Quotes]]
+  *[[Druid]]
+  *[[Hunter]]
+  *[[Mage]]
+  *[[Paladin]]
+  *[[Priest]]
+  *[[Rogue]]
+  *[[Shaman]]
+  *[[Warlock]]
+  *[[Warrior]]
+  *[[Death_Knight]]
+
+## Just for Fun
+
+  *[[Famous_DG_Quotes]]
