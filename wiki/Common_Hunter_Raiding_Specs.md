@@ -1,8 +1,7 @@
 {| align="right"
   | __TOC__
   |}
-
-==Holy==
+==Marksman==
 Spec 1 (place holder text)
 
 Spec 2
@@ -14,7 +13,7 @@ placeholder
 
 
 
-==Protection==
+==Survival==
 Spec 1 (place holder text)
 
 Spec 2
@@ -26,7 +25,7 @@ placeholder
 
 
 
-==Retribution==
+==Beast Master==
 Spec 1 (place holder text)
 
 Spec 2

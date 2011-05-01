@@ -1,81 +1,35 @@
-{| align="right"
-  | __TOC__
-  |}
-'''Paladin Class Lead: Sampsen'''
+[http://www.wowwiki.com/Karazhan Wowwiki.com :: Karazahan Strategy Guide]
+
+==Bosses==
+[http://www.wowwiki.com/Attumen_the_Huntsman Attumen the Huntsman]
+
+[http://www.wowwiki.com/Moroes Moroes]
+
+[http://www.wowwiki.com/Maiden_of_Virtue Maiden of Virtue]
+
+[http://www.wowwiki.com/The_Curator The Curator]
+
+*Important Note: All classes need a minimum of 150 Arcane Resist for the Curator. If your the "Hateful Bolt soaker" you need a minimum 200 Arcane Resist.
 
 
+[http://www.wowwiki.com/Terestian_Illhoof Terestian Illhoof]
 
-== Protection Paladin ==
-====Protection Paladin Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
+[http://www.wowwiki.com/Shade_of_Aran Shade of Aran]
 
-*[[Core Raiding General Requirements]]
+[http://www.wowwiki.com/Netherspite Netherspite]
 
+[http://www.wowwiki.com/Prince_Malchezaar Prince Malchezaar]
 
-====Protection Paladin Casual Raiding Guidelines====
-'''For KZ''': 
-*Uncrushable (102.4% avoidance with HS up)
-*10k+ health
-*490 defense
-*150+ spell power (200 ideally)
+[http://www.wowwiki.com/Nightbane_%28boss%29 Nightbane]
 
 
-'''For SSC/TK & ZA''':
+==Opera Event==
+[http://www.wowwiki.com/Wizard_of_Oz Wizard of Oz]
 
-*[[Casual Raiding General Requirements]]
+[http://www.wowwiki.com/Big_Bad_Wolf Big Bad Wolf]
 
-
-====Raiding Basics for Protection Paladins====
-*[[Protection Paladin Consumables]]
-*[[Protection Paladin Gems & Enchants]]
-*[[Protection Paladin Raid Tanking]]
-*[[Common Protection Paladin Specs]]
-*[[Addons for Protection Paladins]]
+[http://www.wowwiki.com/Romulo_and_Julianne Romulo and Julianne]
 
 
-
-== Holy Paladin ==
-====Holy Paladin Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-
-*[[Core Raiding General Requirements]]
-
-
-====Holy Paladin Casual Raiding Guidelines====
-'''For KZ''': 
-
-'''For SSC/TK & ZA''':
-
-*[[Casual Raiding General Requirements]]
-
-
-====Raiding Basics for Holy====
-*[[Holy Paladin Consumables]]
-*[[Holy Paladin Gems & Enchants]]
-*[[Holy Paladin Healing]]
-*[[Common Holy Paladin Specs]]
-*[[Addons for Holy Paladins]]
-
-
-
-== Retribution Paladin==
-====Retribution Paladin Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-
-*[[Core Raiding General Requirements]]
-
-
-====Retribution Paladin Casual Raiding Guidelines====
-'''For KZ''': 
-
-'''For SSC/TK & ZA''':
-
-*[[Casual Raiding General Requirements]]
-
-
-====Raiding Basics for Retribution====
-*[[Retribution Paladin Consumables]]
-*[[Retribution Paladin Gems & Enchants]]
-*[[Retribution Paladin Raid DPS]]
-*[[Common Retribution Specs]]
-*[[Addons for Retribution Paladins]]
+==Chess Event==
+[http://www.wowwiki.com/Chess_event Chess Event]

@@ -1,75 +1,111 @@
-== Optional Raiding add-ons ==
-Here you'll find a few of the add-ons that I really like, all of them are optional of course. I thought it may be nice to have a repository of common add-ons :)  If one of your favorite add-ons is not in this list send me a PM and I'll add it. Enjoy! 
+{| align="right"
+  | __TOC__
+  |}
+== Battle Elixir ==
+'''Elixir of Healing Power''' [http://www.wowhead.com/?item=22825 link]
 
--Cailly
+Use: Increases the effects of healing spells that you cast by up to 50 for 60 min.
 
-
-Raid frames... whatever you use you need a way to quickly see the whole raid so you can cross heal. 
-
-
-'''[http://wow.curse.com/downloads/wow-addons/details/grid.aspx Grid]'''
-
-Grid is a modular, lightweight and screen-estate saving grid of party/raid unit frames based on Ace2 and various embedded libraries provided by the Ace-community.
-
-Due to its flexible design, Grid has a fairly daunting configuration menu. I suggest taking a few minutes to look through the configuration and familiarize yourself with the options available to you.
-
-
-If you don't like Grid you can try:
-
-
-'''[http://wow.curse.com/downloads/wow-addons/details/heal-bot-continued.aspx HealBot]'''
-
-Healbot is a party interface that is optimized for healing and has buttons to cast spells on each person in the party. Healbot will never autocast.
+''Reagents: Golden Sansam, Dreaming Glory, Imbued Vial''
 
 
 
-'''[http://www.wowinterface.com/downloads/info4673.html PerfectRaid]'''
 
-PerfectRaid is a whole new look on raid frames, giving you as much information as possible in an easily recognizable format that's easy to place. Show as much or as little as you're interested in, and completely customize using the each options editor.
+== Guardian Elixir ==
+'''Elixir of Major Mageblood''' [http://www.wowhead.com/?item=22840 link]
 
+Use: Regenerate 16 mana per 5 sec for 60 min. 
 
-
-'''[http://wow.curse.com/downloads/wow-addons/details/vuhdo.aspx Vuhdo]'''
-
-What is VuhDo? – VuhDo is a raid monitor similar to CTRaidAssist or Blizzards built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars. VuhDo is primarily directed to healing classes, but will make use to almost any other class. Moreover several healing spells or other actions can be asserted to mouse clicks on those bars (Click-Heal).
-
-==more stuff...==
-
-'''[http://wow.curse.com/downloads/wow-addons/details/decursive.aspx Decursive]'''
-
-This is a cleaning mod. Its job is to help a class that can remove afflictions to do it with ease in every conditions (playing solo, in small groups or in big raids).
+''Reagents: Ancient Lichen, Netherbloom, Imbued Vial''
 
 
+'''Elixir of Draenic Wisdom''' [http://www.wowhead.com/?item=32067 link]
 
-'''[http://wow.curse.com/downloads/wow-addons/details/prayer-of-mending-tracker.aspx Prayer of Mending Tracker]'''
+Use: Increases Intellect and Spirit by 30 for 1 hour. 
 
-A mod that tracks who Prayer of Mending is jumping to and how many charges you have left. Displaying it in a small movable window frame. 
+''Reagents: Felweed, Terocone, Imbued Vial''
 
 
 
-'''[http://wow.curse.com/downloads/wow-addons/details/clique.aspx Clique]'''
+== Flask ==
+'''Flask of Mighty Restoration''' [http://www.wowhead.com/?item=22853 link]
 
-Clique is a simple GUI that lets you assign click-casting for any number of unit frames. Click casting allows you to define the behavior the game takes when you click on a frame. This can be casting spells, running a macro, using an item, or something as simple as changing targets or assisting a unit.
+Use: Increases mana regeneration by 25 mana per 5 seconds for 120 min. 
 
-
-
-'''[http://wow.curse.com/downloads/wow-addons/details/fortexorcist.aspx ForteXorcist]'''
-
-Spell Timers, Cooldown Timers, Self & Raid messages, Warning Sounds and more
+''Reagents: Fel Lotus, Mana Thistle (3), Dreaming Glory (7), Imbued Vial''
 
 
-'''[http://wow.curse.com/downloads/wow-addons/details/quartz.aspx Quartz]'''
 
-Quartz is a cast bar replacement. The biggest thing that I find useful about it is the latency display. this is what the nice people at ace have to say about Quartz and the Latency Display:
+== Food Buff ==
 
-Displays the amount of time spent between cast send and start events, in the form of a bar at the end of your casting bar, with optional text that displays the actual duration of the lag. This helps in canceling casts when they will not actually be interrupted, especially for users with consistently high pings.
+'''Golden Fish Sticks''' [http://www.wowhead.com/?item=27666 link]
 
+Use: increase healing done by 44 and Spirit by 20 for 30 min.
 
-'''[http://wow.curse.com/downloads/wow-addons/details/omni-cc.aspx Omni CC]'''
-
-OmniCC is an addon that adds text to items/spells/abilities that are on cooldown to indicate when they'll be ready for use once again. OmniCC should be compatible with anything that uses standard cooldown functions.
+''Reagents: Golden Darter''
 
 
-'''[http://wow.curse.com/downloads/wow-addons/details/powerauras-classic.aspx Power Auras]'''
+'''Blackened Sporefish''' [http://www.wowhead.com/?item=27663 link]
 
-This addon was created to provide visual cues (auras) when you gain buffs, debuffs and many more. Very useful for shorts buffs or debuffs, it allows you to draw in the center of the screen, or around your character, very customizable visual effects, rather than having to look at or mouseover buff/debuff icons/actionbars.
+Use: gain 20 Stamina and 8 Mana every 5 seconds for 30 min.
+
+''Reagents: Zangarian Sporefish''
+
+
+'''Skullfish Soup''' [http://www.wowhead.com/?item=33825 link]
+
+Use:  gain 20 Spell Critical Strike Rating and Spirit for 30 min.
+
+''Reagents: Crescent-Tail Skullfish
+
+
+
+== Universal ==
+
+'''Super Healing Potion''' [http://www.wowhead.com/?item=22829 link]
+
+Use: Restores 1500 to 2500 health. (Stacks to 5)
+
+''Reagents: Netherbloom (2), Felweed, Imbued Vial''
+
+
+'''Healing Potion Injector'''  [http://www.wowhead.com/?item=33092 link]
+
+Use: Restores 1500 to 2500 health. (20 Charges)
+
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Healing Potion (20)''
+
+
+'''Super Mana Potion''' [http://www.wowhead.com/?item=22832 link]
+
+Use: Restores 1800 to 3000 mana. (Stacks to 5)
+
+''Reagents: Dreaming Glory (2), Felweed, Imbued Vial''
+
+
+'''Mana Potion Injector''' [http://www.wowhead.com/?item=23823 link]
+
+Use: Restores 1800 to 3000 mana.  (20 Charges)
+
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Mana Potion (20)''
+
+
+'''Super Rejuvenation Potion''' [http://www.wowhead.com/?item=22850 link]
+
+Use: Restores 1650 to 2750 mana and health. (Stacks to 5)
+
+''Reagents: Mana Thistle (2), Dreaming Glory, Netherbloom, Imbued Vial''
+
+
+'''Major Dreamless Sleep Potion''' [http://www.wowhead.com/?item=22836 link]
+
+Use: Puts the imbiber in a dreamless sleep for 12 sec. During that time the imbiber heals 3600 health and 3600 mana. (Stacks to 5)
+
+''Reagents: Dreaming Glory, Nightmare Vine, Imbued Vial''
+
+
+'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
+
+Use: Heals 3400 damage over 8 sec.
+
+''Reagents: Netherweave Cloth (2)''

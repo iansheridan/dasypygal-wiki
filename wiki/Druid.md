@@ -4,19 +4,18 @@
 '''Healing Lead: Cailleach'''
 
 
-== Paladin ==
-====Paladin Core Raiding Guidlines====
+== Druid ==
+==== Druid Core Raiding Guidlines====
 
 *[[Core Raiding General Requirements]]
 
 
-
-====Paladin Casual Raiding Guidelines====
+==== Druid Casual Raiding Guidlines====
 
 *[[Casual Raiding General Requirements]]
 
 
-====Raiding Basics for Paladins====
-*[[Paladin Raiding]]
-*[[Common Paladin Specs]]
-*[[Addons for Paladins]]
+====Raiding Basics for Druids====
+*[[Druid Raiding]]
+*[[Common Druid Specs]]
+*[[Addons for Druids]]

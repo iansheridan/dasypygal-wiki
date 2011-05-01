@@ -4,19 +4,19 @@
 '''Healing Lead: Cailleach'''
 
 
-
-== Priest ==
-==== Priest Core Raiding Guidlines====
+== Paladin ==
+====Paladin Core Raiding Guidlines====
 
 *[[Core Raiding General Requirements]]
 
-====Priest Casual Raiding Guidelines====
+
+
+====Paladin Casual Raiding Guidelines====
 
 *[[Casual Raiding General Requirements]]
 
 
-====Raiding Basics for Priests====
-*[[Priest Raiding]]
-*[[Common Priest Specs]]
-
-*[[Addons for Priests]]
+====Raiding Basics for Paladins====
+*[[Paladin Raiding]]
+*[[Common Paladin Specs]]
+*[[Addons for Paladins]]

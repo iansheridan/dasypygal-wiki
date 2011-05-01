@@ -2,24 +2,27 @@
   | __TOC__
   |}
 
-==Joining a Raid==
-Our raid times are 8:30PM to Midnight : Server time : Monday-Thursday.
+==Battle==
+<item>Elixir of Mighty Agility</item>
 
-*[[Raiding Ranks]]
-*[[Raid Sign-up and Invite Policy]]
-*[[Raid Preparation]]
+==Guardian==
+<item>Elixir of Mighty Thoughts</item>
 
-==Loot Distribution System==
-*[[DKP]]
+==Flask==
+<item>Flask of Relentless Assault</item>
 
-==Raiding Enhancements==
-*[[Required Raiding Addons]]
-*[[TeamSpeak]]
+==Food==
+<item>Blackened Dragonfin</item>
+
+==Pet Food==
+<item>Spiced Mammoth Treats</item>
 
 
-==Instance & Boss Strategies==
-*[[Wrath of the Lich King]]
-*[[The Burning Crusade]]
+== Universal ==
 
-==WWS Reports==
-*[http://dasypygal.dyndns.org/forums/viewforum.php?f=26 Raid Reports Forum]
+
+'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
+
+Use: Heals 3400 damage over 8 sec.
+
+''Reagents: Netherweave Cloth (2)''

@@ -1,37 +1,43 @@
-==Essence of Suffering==
-Move the Essence as little as possible. 
-Melee dps must stand at max melee range. 
-The current tank has to stand very close. During tank rotation have the new tank step into the old tank and the old tank move one step back and wait until the next Fixate is cast. 
-Assign 3 Rogues to tank the Enrages with Evasion (with decent dps he should be down shortly before the 3rd Enrage). After the Enrage or at the end of Evasion a proper tank rotation must be performed. It is crucial that the Rogue does not panic-vanishes since the EoS will immediately move into the camp. Have a priest cast Power Word: Shield on the tanking rogue 15 seconds before Enrage, as the Weakened Soul debuff will be gone at the time of Enrage, thus allowing the priest to recast PW:S, should any hits get through Evasion. 
-Assign several tanks (def/ferals) for tank rotation in the normal phases (generally two tanks per normal phase is sufficient. Feral Druids with dodge/agi trinkets are desirable). 
-When aggro-dropping abilities such as BoP/Vanish/Iceblock are used (by/on the current Fixated player), the Essence will immediately head towards the highest threat player until Fixate is cast again. As long as a player is Fixated and not dead, nothing else can make him lose the aggro. 
-The Priests should chain-use PW:S and the Paladins BoSac on the current Fixated tank. Intervene can also be used carefully. It is very easy to pull aggro when intervening during a Fixate cast. Also every single warrior who is assigned as tank should keep his hp maxed. 
-Soul Drain must be dispelled immediately, especially from all players used as tanks. 
-Alternate tanking strategy: everyone stands directly underneath the boss, when you are fixated, move outside the group, the boss will then fixate another person inside the group, move far away enough to be sure of never getting another fixate. When an enrage is near, everyone moves out from under the boss except the current fixated person and a tank moves in, popping max avoidance trinkets he tanks the full duration for the enrage using last stand (if necessary), and two PWS (1 applied 15 sec before enrage, 1 applies during enrage). People move under when there is <5sec left on enrage so the next non enrage fixate is taken by another player, every person should be able to take a full fixate. DPS warriors can avoid fixates and intervene tanks during enrages, this strategy does not require the boss to stand perfectly still. 
+==Abilities==
+Doom Blossom - (Shadow Bolt 1500 Base Direct Shadow Damage, > 2000 Base Direct Shadow Damage when Player is affected by Crushing Shadows ) : Dark clouds (Duration 2.25 minutes) 
+Shadow of Death - Will target a random raid member every 30 seconds with, Shadow of Death (55 Second Duration) at the end of the debuff the Affected player enters a near death state, in this state they are given control of a Ghost (60 Second Duration) *Note* See Shadowy Constructs. 
+Crushing Shadows: Will target 5 random people in the raid with, Crushing Shadows (+60% Shadow Damage Taken, Duration 15 Seconds) 
+Incinerate - (2775 – 3225 Initial Fire Damage, DOT 2500+/Second, Duration 4 Seconds), dispellable by priests and paladins. 
+Shadowy Constructs: 
 
-After Essence of Suffering goes back into the Reliquary, several ghosts will begin to spawn and head towards the raid. It is imperative that the raid gathers into one spot at this time. The ghosts hit for roughly 600 on cloth, so a few quick heals on anyone about to die should be enough. A ghost releases a holy explosion once it dies, restoring roughly 30% of a player's health and mana in a ~15-yard radius. Therefore it is recommended that any mana-intensive spells, such as making mana gems or summoning new demons be cast at the beginning of the ghost phase so that the players can start with full mana. 
+Deal massive melee damage 
+Spawns in Groups of Four, At the Body of the Player Affected by Shadow of Death, The Ghost that is player controlled is also spawned here. 
+Can only be damaged by ghost 
+Will Spawn with High hate on players in Raid, Will only aggro on the Players Ghost once Raid wipes. 
+Atrophy: Deals damage and weakens the target, decreasing melee, ranged, and spell casting speed by 5%. Debuff will stack up to 10 Times. 
+Ghost controlled by player: 
 
-==Essence of Desire==
-Essence of Desire requires at least 2 interrupters and a large amount of focus from raid healers. The MT tanks the Essence and prepares Spell Reflect for whenever Deaden is up, starting approximately 30 seconds into the Desire phase. 
-Essence of Desire hits quite weakly and rage generation can be a problem for a tank, do not use Demo Shout or Thunderclap, Curse of Recklessness is useful here. 
-The key to the fight is that the interrupters stop Spirit Shocks from landing on the MT; generally 2-4 rogues/offwarriors are used because they don't rely on mana, but any interrupting class will do in a fix. The best approach is to use only 2 rogues, or a rogue and a warrior for interrupting, allowing other melee dps to go full out. Interrupting also becomes easier for the two, as they know the next Spirit Shock will come very soon after their interrupting ability cooldown ends. 
-Curse of Tongues are a huge help in the fight. CoT slows down the casting time of Spirit Shocks, so interrupters have more time to interrupt Spirit Shock. Mind-numbing poison works as well. 
-An uninterrupted Spirit Shock on the MT will make him lose aggro for at least 5s. 
-Interrupters must be careful not to interrupt Deaden, as it will not only significantly increase the DPS requirements of the fight every time it's successfully interrupted, but it will also put the interrupt on cooldown, and it is highly likely that a Spirit Shock will follow immediately afterwards, hitting the MT. 
-Rune Barrier can be Purged, Spellstolen or eaten by felhounds. While the ideal strategy would be to Spellsteal it, the possibility of a Rune Barriered Spirit Shock hitting the MT make it safer for autocasting Felhounds to consume the Barrier. 
-For 10 seconds after the MT reflects Deaden, the raid healers must be on their toes as damage output (and therefore damage intake due to the Aura of Desire) is doubled. Top-class damagedealers can take upwards of 1500 damage per second, and DPS classes with high burst potential (warriors with windfury, enhancement shaman, retribution paladins, fire mages, destruction warlocks, etc.) stand the risk of being gibbed by their own damage. DPS must also be on alert as their increased damage may put them in danger of pulling aggro. 
-Aura of Desire does inhibit spell casting. Paladins are recommended to use Aura of Concentration. For classes whose DPS consists of multiple, fast hits, such as rogues and affliction warlocks, dampen magic can be useful. 
-If it is touch and go whether you kill it before 0% mana, have a priest prepared to Inner Focus -> Mass Dispell the shield, this will give you precious extra seconds to kill it. Fast-hitting classes (such as rogues) should be very careful with dps after 0% mana hits, as they can kill themselves extremely quickly. 
-Resummoning felhunters during phase 2 will reset their mana to 100% so when the raid is drained they will still have mana, proportional to how long they have been in the fight. 
-Once Essence of Desire returns to the Reliquary, the ghosts will appear once more. 
+Spirit Strike - 1 - Short Range 638-862 damage, -10% Damage Dealt for 5 Seconds. Is used on Teron Gorefiend if you don't do anything else. 
+Spirit Lance - 3 - Long Range 6175-6825 damage, Slow -30% Movement Speed for 3 Seconds, Stacks up to 3 times. Your main damage spell against the shadowy constructs. 
+Spirit Chains - 4 - Short Range AoE Shackle 1900-2100 Damage, Shackle Lasts 5 Seconds, cool down 15 Seconds. You should use that directly after transforming into the ghost. 
+Spirit Volley - 5 - Short Range AoE 9900-12100 damage, cool down 15 Seconds. Not really necessary but a help. Don't use it after a Spirit Chains! 
+Spirit Shield - 7 - Player Buff Shield Absorbs 11400-12600 Shadow Damage, Duration 30 Seconds, cool down 1.5 Minutes. 
+==Strategy==
 
-==Essence of Anger==
-Essence of Anger must be tanked facing away from the raid. Its Soul Scream is on a rough 10 second timer, so healers must be ready to top the tanker up if he receives a bad Scream. 
-During the pull and the aggrogain of the MT Seethe is up so no dps should be done until the debuff ends (10s). After that it's an all-out dps fight. (note: seethe does not have to be cast, tab targeting the boss before it starts moving / has aquired a target allows the MT to shield slam / taunt and be the first person targeted, so no seethe is cast) 
-ALL hunters should misdirect on the MT, giving extra threat, organize an order before hand. 
-High aggro/dps classes with no aggro dump such as shadow priests must take care to manage their aggro, as their DPS output will increase substantially faster than the MT's TPS output. Pulling aggro will almost certainly wipe the raid. 
-DPS are advised to blow their cooldowns a fair amount into the fight, as damage taken and dealt increases exponentially as the fight progresses. Normal duration (15s) cooldowns can be popped as late as 25 ticks into the fight, but it's iffy. 
-Players afflicted by Spite must be topped up before they take the nature damage, and then immediately topped up again before the Aura kills them. 
-Absolutely every dps increasing ability in game should be used at this point to kill it, fire elementals, bloodlust, destruction / haste potions, anything to kill it asap 
-it is useful if shadow priests shift out of shadowform to heal at a low % to keep their entire group alive 
-On a typical first kill, the Essence of Anger will die at around 3000 damage per tick. Higher DPS guilds may kill him by as early as high 2000s per tick, while healer-heavy guilds may be able to survive until 3500 or higher.
+While Teron has a relatively low amount of health, this is a DPS race because his Shadow of Death debuff will kill raid members and you will have either less healers or DPS as the fight progresses. 
+
+Only one tank is needed. A well-geared warrior or paladin tank is recommended to deal with the powerful crushing blows. Other tanks in the raid should switch to DPS or healing gear. 
+
+It is imperative that your melee DPS stand behind Teron so that he does not parry and attack your tank faster. There is a good amount of raid damage occurring throughout the entire fight and does progressively increase as the fight goes on. 2-3 Healers should be assigned to raid healing and 
+
+2-3 should be assigned as solid tank healers. The rest should focus on either the tank or the raid, whichever seems to need it. 
+
+All buff consumables should be used, the more DPS your raid outputs the better in shape you are for the fight. Prayer of Shadow Protection is a necessity. Soulstones should be ready to be used for the various healer that gets the Shadow of Death. 
+
+Incinerate (the dot that Teron randomly applies) needs to be dispelled as soon as possible. The incinerate will do massive amounts of damage and if placed on the wrong person can cause death (which coupled with the Shadow of Death can result in an almost guaranteed wipe). 
+
+Upon pulling, your healers should get in position at their leisure, keeping your main tank up is more important that positions (initially, anyways). As said before, your melee should get behind Teron and remain there, while the rest of your raid should hang out on the platform where Teron initially is. Pop Heroism/Bloodlust as soon as your tank has solid threat, hopefully before your first Shadow of Death. 
+
+Shadow of Death is cast every 30 seconds, and lasts 55 seconds. Healers that get this should be soulstoned, with the exception of shamans (if their ankh is up). Upon expiration of the debuff OR death, the target will "die" and become a vengeful spirit. See Ghost Form strategy for more. 
+
+==Ghost Form strategy==
+Before the Shadow of Death debuff fades (at about 15-20 sec left), run to the south end of the room and wait for the constructs to spawn. The ghost skills will appear in place of your main action bar so you can use 1, 3, 4, 5, and 7. After you turn into a ghost, use Spirit Volley (5) followed immediately by Spirit Chains (4) which will AoE attack and shackle the constructs, giving you time to setup the lances. 
+
+Begin start tab cycling the constructs and cast Spirit Lance (3) on each of them, starting with the ones closest to the raid. Spirit Lances will stack and slow them with each debuff, but they have a short duration, so be sure to evenly distribute attacks to each one to prevent the possibility of one or two getting away from you. Keep lancing (3) until your AoE abilities reset their cooldown, then just use them both again in the same sequence, Spirit Volley (5) followed by Spirit Chains (4), and they should all be dead with 2-3 more lances. 
+
+Once your constructs are dead, provide a healer in your group with Spirit Shield (7) and get within melee range of Teron and attack him with Spirit Strike (1). You can also assist others with lancing (3) their constructs.

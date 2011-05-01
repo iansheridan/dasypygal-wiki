@@ -1,25 +1,15 @@
-{| align="right"
-  | __TOC__
-  |}
+'''TS Server Address''': dasypygal.dyndns.org
 
-==Battle==
-<item>Elixir of Major Agility</item>
+[http://www.goteamspeak.com/?page=downloads Download the TeamSpeak application here]
 
-==Guardian==
-<item>Elixir of Mighty Thoughts</item>
+==TeamSpeak How to==
+Launch the application.
+*Server Address: dasypygal.dyndns.org
 
-==Flask==
-<item>Flask of relentless assault</item>
+Name: Your Toon's Name
 
-==Food==
-<item>Blackened Dragonfin</item>
+Password: Please contact an officer  
 
+==TeamSpeak Etiquette==
 
-== Universal ==
-
-
-'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
-
-Use: Heals 3400 damage over 8 sec.
-
-''Reagents: Netherweave Cloth (2)''
+Please be aware that children can be on at any time. Watch your language and be respectful of everyone else. Know when it's ok to be social and when you need to keep TS clear. Move into separate channels when it makes sense to do that. When you join a new channel be sure to announce your presence when you get the opportunity (Don't be interuptive!)

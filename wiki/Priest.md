@@ -1,29 +1,21 @@
-==Discipline==
-Spec 1 (place holder text)
-
-Spec 2
-
-Spec 3
-
-===Glyphs===
+{| align="right"
+  | __TOC__
+  |}
+'''Healing Lead: Cailleach'''
 
 
 
-==Holy==
-Spec 1 (place holder text)
+== Priest ==
+==== Priest Core Raiding Guidlines====
 
-Spec 2
+*[[Core Raiding General Requirements]]
 
-Spec 3
+====Priest Casual Raiding Guidelines====
 
-===Glyphs===
+*[[Casual Raiding General Requirements]]
 
 
-==Shadow==
-Spec 1 (place holder text)
-
-Spec 2
-
-Spec 3
-
-===Glyphs===
+====Raiding Basics for Priests====
+*[[Priest Raiding]]
+*[[Common Priest Specs]]
+*[[Addons for Priests]]

@@ -1,112 +1,57 @@
 {| align="right"
   | __TOC__
   |}
-'''Shaman Class Lead: Guss'''
+
+==Battle==
+
+==Guardian==
+
+==Flask==
+
+==Weapon==
+
+==Food==
 
 
+== Universal ==
 
-== Elemental Shaman==
-====Elemental Shaman Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-*+Dmg: 800
-*Hit: 85 
-*HP: 6000 
-*Mana: 8000
+'''Super Healing Potion''' [http://www.wowhead.com/?item=22829 link]
 
+Use: Restores 1500 to 2500 health. (Stacks to 5)
 
-*[[Core Raiding General Requirements]]
+''Reagents: Netherbloom (2), Felweed, Imbued Vial''
 
 
+'''Healing Potion Injector'''  [http://www.wowhead.com/?item=33092 link]
 
-====Elemental Shaman Casual Raiding Guidelines====
-'''For KZ''': 
-*+Dmg: 600
-*Hit: 40
-*HP: 5000 
-*Mana: 7500
+Use: Restores 1500 to 2500 health. (20 Charges)
+
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Healing Potion (20)''
 
 
-'''For SSC/TK & ZA''':
-*+Dmg: 800
-*Hit: 85 
-*HP: 6000 
-*Mana: 8000
+'''Super Mana Potion''' [http://www.wowhead.com/?item=22832 link]
+
+Use: Restores 1800 to 3000 mana. (Stacks to 5)
+
+''Reagents: Dreaming Glory (2), Felweed, Imbued Vial''
 
 
-*[[Casual Raiding General Requirements]]
+'''Mana Potion Injector''' [http://www.wowhead.com/?item=23823 link]
+
+Use: Restores 1800 to 3000 mana.  (20 Charges)
+
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Mana Potion (20)''
 
 
-====Raiding Basics for Elemental====
-*[[Elemental Shaman Consumables]]
-*[[Elemental Shaman Gems & Enchants]]
-*[[Elemental Shaman Raid DPS]]
-*[[Common Elemental Shaman Specs]]
-*[[Addons for Elemental Shamans]]
+'''Super Rejuvenation Potion''' [http://www.wowhead.com/?item=22850 link]
 
-== Restoration Shaman ==
-====Restoration Shaman Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-* +healing: 1600 
-*Mana regen: 100 mana/5 while casting 
-*HP: 8000 
-*Mana: 9000
+Use: Restores 1650 to 2750 mana and health. (Stacks to 5)
+
+''Reagents: Mana Thistle (2), Dreaming Glory, Netherbloom, Imbued Vial''
 
 
-*[[Core Raiding General Requirements]]
+'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
 
+Use: Heals 3400 damage over 8 sec.
 
-====Restoration Shaman Casual Raiding Guidelines====
-'''For KZ''': 
-*+healing: 1200 
-*Mana regen: 90 mana/5 while casting 
-*HP: 7000 
-*Mana: 8000
-
-
-'''For SSC/TK & ZA''':
-* +healing: 1500 
-*Mana regen: 100 mana/5 while casting 
-*HP: 7000 
-*Mana: 8000
-
-
-*[[Casual Raiding General Requirements]]
-
-====Raiding Basics for Restoration====
-*[[Restoration Shaman Consumables]]
-*[[Restoration Shaman Gems & Enchants]]
-*[[Shaman Raid Healing]]
-*[[Common Restoration Shaman Specs]]
-*[[Addons for Restoration Shamans]]
-
-== Enhancement Shaman ==
-====Enhancement Shaman Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-*AP: 1350
-*Hit: 110
-*Crit: 20%
-
-
-*[[Core Raiding General Requirements]]
-
-====Enhancement Shaman Casual Raiding Guidelines====
-'''For KZ''': 
-*AP: 1000
-*Hit: 90
-*Crit: 17%
-
-
-'''For SSC/TK & ZA''':
-*AP: 1350
-*Hit: 110
-*Crit: 20%
-
-
-*[[Casual Raiding General Requirements]]
-
-====Raiding Basics for Enhancement ====
-*[[Enhancement Shaman Consumables]]
-*[[Enhancement Shaman Gems & Enchants]]
-*[[Enhancement Shaman Raid DPS]]
-*[[Common Enhancement  Specs]]
-*[[Addons for Enhancement Shamans]]
+''Reagents: Netherweave Cloth (2)''

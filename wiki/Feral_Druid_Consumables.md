@@ -1,149 +1,65 @@
 {| align="right"
   | __TOC__
   |}
-'''Druid Class Lead: Kaerne'''
+
+==Battle==
+
+*[http://www.wowhead.com/?item=22831 Elixir of Major Agility]
+
+==Guardian==
+*[http://www.wowhead.com/?item=32063 Earthen Elixir]
+*[http://www.wowhead.com/?item=32068 Elixir of Ironskin]
+
+==Flask==
+*[http://www.wowhead.com/?item=33208 Flask of Chromatic Wonder]
+
+==Weapon==
+*[http://www.wowhead.com/?item=18262 Elemental Sharpening Stone]
+
+==Food==
+*[http://www.wowhead.com/?item=27659 Warp Burger] OR [http://www.wowhead.com/?item=27664 Grilled Mudfish]
+*[http://www.wowhead.com/?item=27667 Spicy Crawdad] OR [http://www.wowhead.com/?item=33052 Fisherman's Feast]
+*[http://www.wowhead.com/?item=33872 Spicy Hot Talbuk]
+
+== Universal ==
+
+'''Super Healing Potion''' [http://www.wowhead.com/?item=22829 link]
+
+Use: Restores 1500 to 2500 health. (Stacks to 5)
+
+''Reagents: Netherbloom (2), Felweed, Imbued Vial''
 
 
+'''Healing Potion Injector'''  [http://www.wowhead.com/?item=33092 link]
 
-== Feral Druid ==
-'''Feral Druid MT:''' Key Talents: Naturalist, OoC, Feral Instinct, Thick Hide, SotF, Mangle, Primal Tenacity, Predatory Instincts
+Use: Restores 1500 to 2500 health. (20 Charges)
 
-'''Feral Druid DPS:''' Key Talents: Naturalist, OoC, Furor, Primal Fury, Shredding Attacks, Mangle
-
-
-====Feral Druid Core Raiding Guidlines====
-
-'''Feral Druid MT:''' For Progression Raids (i.e. SSC/TK & ZA): 
-*Uncrittable
-*25K armor
-*14K Health
-*30% Dodge
-*[http://www.warcrafter.net/sandbox/12212 Example Profile]
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Healing Potion (20)''
 
 
-'''Feral Druid DPS:''' For SSC/TK & ZA''' 
-*2300 AP
-*30% Crit
-*142 Hit Rating
-*[http://www.warcrafter.net/sandbox/12202 Example Profile]
+'''Super Mana Potion''' [http://www.wowhead.com/?item=22832 link]
+
+Use: Restores 1800 to 3000 mana. (Stacks to 5)
+
+''Reagents: Dreaming Glory (2), Felweed, Imbued Vial''
 
 
-*[[Core Raiding General Requirements]]
+'''Mana Potion Injector''' [http://www.wowhead.com/?item=23823 link]
 
-====Feral Druid Casual Raiding Guidelines====
-'''Feral Druid MT:''' For KZ:
-*Uncrittable
-*20K armor
-*12K Health, 20% Dodge
+Use: Restores 1800 to 3000 mana.  (20 Charges)
+
+''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Mana Potion (20)''
 
 
-'''Feral Druid DPS:''' For KZ:
-*2000 AP
-*25% Crit
-*142 Hit Rating 
+'''Super Rejuvenation Potion''' [http://www.wowhead.com/?item=22850 link]
+
+Use: Restores 1650 to 2750 mana and health. (Stacks to 5)
+
+''Reagents: Mana Thistle (2), Dreaming Glory, Netherbloom, Imbued Vial''
 
 
-'''Feral Druid MT:''' For SSC/TK & ZA: 
-*Uncrittable
-*25K armor
-*14K Health
-*30% Dodge
+'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
 
+Use: Heals 3400 damage over 8 sec.
 
-'''Feral Druid DPS:''' For SSC/TK & ZA''' 
-*2300 AP
-*30% Crit
-*142 Hit Rating
-
-
-*[[Casual Raiding General Requirements]]
-
-
-====Raiding Basics for Feral====
-*[[Feral Druid Consumables]]
-*[[Feral Druid Gems and Enchants]]
-*[[Feral Druid Raid Tanking]]
-*[[Feral Druid Raid DPS]]
-*[[Common Feral Druid Specs]]
-*[[Addons for Feral Druids]]
-
-== Restoration Druid ==
-Key Talents: Nature's Swiftness, Intensity, Subtlety, Tree of Life
-
-
-====Restoration Druid Core Raiding Guidlines====
-'''For SSC/TK & ZA'''  
-*7000 Health
-*Mana 8000
-*1400 +Healing
-*120 In-combat Mana Regen
-*[http://www.warcrafter.net/sandbox/12199 Example Profile]
- 
-
-*[[Core Raiding General Requirements]]
-
-====Restoration Druid Casual Raiding Guidelines====
-'''For KZ:'''
-*6000 Health
-*Mana 8000
-*1000 +Healing
-*100 In-combat Mana Regen
-
-
-'''For SSC/TK & ZA'''  
-*7000 Health
-*Mana 8000
-*1400 +Healing
-*120 In-combat Mana Regen
-
-
-*[[Casual Raiding General Requirements]]
-
-====Raiding Basics for Restoration====
-*[[Restoration Druid Consumables]]
-*[[Restoration Druid Gems and Enchants]]
-*[[Druid Raid Healing]]
-*[[Common Restoration Druid Specs]]
-*[[Addons for Restoration Druids]]
-
-== Balance Druid ==
-Key Talents: Subtlety, Insect Swarm, Lunar Guidance, Moonkin Form, Dreamstate, Balance of Power
-
-
-====Balance Druid Core Raiding Guidlines====
-'''For SSC/TK & ZA''':
-*7000 Health
-*7500 Mana
-*20% Spell Crit
-*900 Spell Damage
-*152 Spell Hit rating (i.e. 16% with talents)
-*[http://www.warcrafter.net/sandbox/12223 Example Profile]
-
- 
-*[[Core Raiding General Requirements]]
-
-====Balance Druid Casual Raiding Guidelines====
-'''For KZ''':
-*7000 Health
-*6500 Mana, 20% Spell Crit
-*600 Spell Damage
-*76 Spell Hit Rating (i.e. 10% with talents)
-
-
-'''For SSC/TK & ZA''':
-*7000 Health
-*7500 Mana
-*20% Spell Crit
-*900 Spell Damage
-*152 Spell Hit rating (i.e. 16% with talents)
-
-
-*[[Casual Raiding General Requirements]]
-
-
-====Raiding Basics for Balance====
-*[[Balance Druid Consumables]]
-*[[Balance Druid Gems and Enchants]]
-*[[Balance Druid Raid DPS]]
-*[[Common Balance Specs]]
-*[[Addons for Balance Druids]]
+''Reagents: Netherweave Cloth (2)''

@@ -1,57 +1,37 @@
-==Abilities==
-Beams: Every 9 seconds, one of the following beams will fire to a random raid member and will jump to other raid members. Beams can chain any distance. 
-Sinful Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Deals 6938 to 8062 shadow damage. 
-Sinister Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Causes 2000 shadow damage and has a knockback effect. Deals Approx. 50% falling damage. 
-Vile Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Deals 2500 shadow damage every 2 seconds for 8 seconds. 
-Wicked Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Burns 1000 mana. Deals 4000 (1000 with shadow resistance) Shadow Damage 
+==Essence of Suffering==
+Move the Essence as little as possible. 
+Melee dps must stand at max melee range. 
+The current tank has to stand very close. During tank rotation have the new tank step into the old tank and the old tank move one step back and wait until the next Fixate is cast. 
+Assign 3 Rogues to tank the Enrages with Evasion (with decent dps he should be down shortly before the 3rd Enrage). After the Enrage or at the end of Evasion a proper tank rotation must be performed. It is crucial that the Rogue does not panic-vanishes since the EoS will immediately move into the camp. Have a priest cast Power Word: Shield on the tanking rogue 15 seconds before Enrage, as the Weakened Soul debuff will be gone at the time of Enrage, thus allowing the priest to recast PW:S, should any hits get through Evasion. 
+Assign several tanks (def/ferals) for tank rotation in the normal phases (generally two tanks per normal phase is sufficient. Feral Druids with dodge/agi trinkets are desirable). 
+When aggro-dropping abilities such as BoP/Vanish/Iceblock are used (by/on the current Fixated player), the Essence will immediately head towards the highest threat player until Fixate is cast again. As long as a player is Fixated and not dead, nothing else can make him lose the aggro. 
+The Priests should chain-use PW:S and the Paladins BoSac on the current Fixated tank. Intervene can also be used carefully. It is very easy to pull aggro when intervening during a Fixate cast. Also every single warrior who is assigned as tank should keep his hp maxed. 
+Soul Drain must be dispelled immediately, especially from all players used as tanks. 
+Alternate tanking strategy: everyone stands directly underneath the boss, when you are fixated, move outside the group, the boss will then fixate another person inside the group, move far away enough to be sure of never getting another fixate. When an enrage is near, everyone moves out from under the boss except the current fixated person and a tank moves in, popping max avoidance trinkets he tanks the full duration for the enrage using last stand (if necessary), and two PWS (1 applied 15 sec before enrage, 1 applies during enrage). People move under when there is <5sec left on enrage so the next non enrage fixate is taken by another player, every person should be able to take a full fixate. DPS warriors can avoid fixates and intervene tanks during enrages, this strategy does not require the boss to stand perfectly still. 
 
+After Essence of Suffering goes back into the Reliquary, several ghosts will begin to spawn and head towards the raid. It is imperative that the raid gathers into one spot at this time. The ghosts hit for roughly 600 on cloth, so a few quick heals on anyone about to die should be enough. A ghost releases a holy explosion once it dies, restoring roughly 30% of a player's health and mana in a ~15-yard radius. Therefore it is recommended that any mana-intensive spells, such as making mana gems or summoning new demons be cast at the beginning of the ghost phase so that the players can start with full mana. 
 
+==Essence of Desire==
+Essence of Desire requires at least 2 interrupters and a large amount of focus from raid healers. The MT tanks the Essence and prepares Spell Reflect for whenever Deaden is up, starting approximately 30 seconds into the Desire phase. 
+Essence of Desire hits quite weakly and rage generation can be a problem for a tank, do not use Demo Shout or Thunderclap, Curse of Recklessness is useful here. 
+The key to the fight is that the interrupters stop Spirit Shocks from landing on the MT; generally 2-4 rogues/offwarriors are used because they don't rely on mana, but any interrupting class will do in a fix. The best approach is to use only 2 rogues, or a rogue and a warrior for interrupting, allowing other melee dps to go full out. Interrupting also becomes easier for the two, as they know the next Spirit Shock will come very soon after their interrupting ability cooldown ends. 
+Curse of Tongues are a huge help in the fight. CoT slows down the casting time of Spirit Shocks, so interrupters have more time to interrupt Spirit Shock. Mind-numbing poison works as well. 
+An uninterrupted Spirit Shock on the MT will make him lose aggro for at least 5s. 
+Interrupters must be careful not to interrupt Deaden, as it will not only significantly increase the DPS requirements of the fight every time it's successfully interrupted, but it will also put the interrupt on cooldown, and it is highly likely that a Spirit Shock will follow immediately afterwards, hitting the MT. 
+Rune Barrier can be Purged, Spellstolen or eaten by felhounds. While the ideal strategy would be to Spellsteal it, the possibility of a Rune Barriered Spirit Shock hitting the MT make it safer for autocasting Felhounds to consume the Barrier. 
+For 10 seconds after the MT reflects Deaden, the raid healers must be on their toes as damage output (and therefore damage intake due to the Aura of Desire) is doubled. Top-class damagedealers can take upwards of 1500 damage per second, and DPS classes with high burst potential (warriors with windfury, enhancement shaman, retribution paladins, fire mages, destruction warlocks, etc.) stand the risk of being gibbed by their own damage. DPS must also be on alert as their increased damage may put them in danger of pulling aggro. 
+Aura of Desire does inhibit spell casting. Paladins are recommended to use Aura of Concentration. For classes whose DPS consists of multiple, fast hits, such as rogues and affliction warlocks, dampen magic can be useful. 
+If it is touch and go whether you kill it before 0% mana, have a priest prepared to Inner Focus -> Mass Dispell the shield, this will give you precious extra seconds to kill it. Fast-hitting classes (such as rogues) should be very careful with dps after 0% mana hits, as they can kill themselves extremely quickly. 
+Resummoning felhunters during phase 2 will reset their mana to 100% so when the raid is drained they will still have mana, proportional to how long they have been in the fight. 
+Once Essence of Desire returns to the Reliquary, the ghosts will appear once more. 
 
-Fatal Attraction: Teleports 1-3 players to same location and links them with demonic energy. A Debuff on the affected players deals 2775 to 3225 AoE Shadow damage to nearby allies within 15 yards every 1 second, lasts for 30 seconds. The debuff will fade if everyone carrying the debuff is separated 25 yards away from each other. This ability is considered the most random and annoying part of the encounter by most raiders. 
-Silencing Shriek: Applies aura on anyone within 18 yards and silences those affected for 10 seconds. Can be resisted. (Sorry paladin tanks) 
-Saber Lash: Frontal cleave-like attack occurs on about 85% of her normal attacks. Does damage divided evenly among all affected targets (up to a max of 2 others besides the main tank), causes 76000-84000 physical damage. 20 yds range. Also provides immunity for beams and Fatal Attraction for 30 secs after it lands. 
-Prismatic Auras: Every 15 seconds, Mother Shahraz will change to a different Prismatic Aura. Each Prismatic Aura reduces damage done by one spell school, while increasing the damage done by the opposite spell school. The auras have the following effects: 
-Prismatic Aura: Arcane 
-Arcane damage done reduced by 25%. 
-Nature damage done increased by 25%. 
-Prismatic Aura: Shadow 
-Shadow damage done reduced by 25%. 
-Holy damage done increased by 25%. 
-Prismatic Aura: Holy 
-Holy damage done reduced by 25%. 
-Shadow damage done increased by 25% 
-Prismatic Aura: Fire 
-Fire damage done reduced by 25%. 
-Frost damage done increased by 25%. 
-Prismatic Aura: Frost 
-Frost damage done reduced by 25%. 
-Fire damage done increased by 25%. 
-Prismatic Aura: Nature 
-Nature damage done reduced by 25%. 
-Arcane damage done increased by 25%. 
-Enrage: at 20% she periodically enrages for a short time increasing damage and attack speed, not greatly dangerous, healers need to watch out 
-==Strategy==
-This is a shadow resistance fight, and it is necessary for members of the raid to have high Shadow Resistance. 
-
-There are two strategies for this encounter: One Group and Three Groups. 
-
-==One Group==
-All casters / healers stands beneath the right hand pillar near Mother Shahraz. She is tanked at the opposite pillar facing along the the terrace with melee behind her, this avoids parries when she turns to cast beams (except directly at the melee) which can be deadly as she deals nasty damage to the main tank. Standing underneath the pillar also has the bonus that when players are knocked up by the Sinister Beam they hit the top of the pillar and take slightly less fall damage. 
-
-Offtanks stand directly on top of the MT and try to use a ranged weapon or skill to attack the boss before she reaches the MT, otherwise you will not be in combat and the saberlash will not be split between them, 1 shotting the MT. 
-
-People with fatal attraction must take care to run AWAY from the tanks or the caster groups, and then take a healthstone. It is recommended to put down a [Shadow Protection Cauldron] at the start of the encounter for everyone as well. 
-
-Advantages: More space for people with fatal attraction to run around in. 
-Disadvantages: It is possible for 3 people with fatal attraction to be teleported in to the caster group, this will do some nasty damage potentially causing a wipe 
-Another tactic is to gather everyone and stand under Mother Shahraz's skirt. This involves everyone in the raid group running "under" Mother Shahraz and fighting/healing from there. 
-
-Advantages: Few/none will be hit by the beams 
-Disadvantages: It is possible for a wipe if one person does not stand DIRECTLY under her skirt. 
-==Three Groups==
-The casters / healers are split into three groups which are placed at equal angles and distances around the boss. 
-
-Advantages: if a bad fatal attraction occurs at most one group will be hit. 
-Disadvantages: it is much more likely a group will be hit by fatal attractions, and people with the attraction have less space to run apart. 
-==Craftable Resistance Gear==
-This fight requires that players have a high level of Shadow Resistance. A list of craftable resistance gear suitable for this fight and materials required can be found at Mother Shahraz/Shadow resist gear.
+==Essence of Anger==
+Essence of Anger must be tanked facing away from the raid. Its Soul Scream is on a rough 10 second timer, so healers must be ready to top the tanker up if he receives a bad Scream. 
+During the pull and the aggrogain of the MT Seethe is up so no dps should be done until the debuff ends (10s). After that it's an all-out dps fight. (note: seethe does not have to be cast, tab targeting the boss before it starts moving / has aquired a target allows the MT to shield slam / taunt and be the first person targeted, so no seethe is cast) 
+ALL hunters should misdirect on the MT, giving extra threat, organize an order before hand. 
+High aggro/dps classes with no aggro dump such as shadow priests must take care to manage their aggro, as their DPS output will increase substantially faster than the MT's TPS output. Pulling aggro will almost certainly wipe the raid. 
+DPS are advised to blow their cooldowns a fair amount into the fight, as damage taken and dealt increases exponentially as the fight progresses. Normal duration (15s) cooldowns can be popped as late as 25 ticks into the fight, but it's iffy. 
+Players afflicted by Spite must be topped up before they take the nature damage, and then immediately topped up again before the Aura kills them. 
+Absolutely every dps increasing ability in game should be used at this point to kill it, fire elementals, bloodlust, destruction / haste potions, anything to kill it asap 
+it is useful if shadow priests shift out of shadowform to heal at a low % to keep their entire group alive 
+On a typical first kill, the Essence of Anger will die at around 3000 damage per tick. Higher DPS guilds may kill him by as early as high 2000s per tick, while healer-heavy guilds may be able to survive until 3500 or higher.

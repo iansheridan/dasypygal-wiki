@@ -1,59 +1,57 @@
 ==Abilities==
-Normal Form: 
-
-Melee: Illidan melees from 6k to 8k on plate. He doesn't crush (so avoiding Shear is most important) 
-Shear: Reduces the health of his current main aggro target by 60% for 7 seconds. Shear has a 1.5 second cast time, so the main tank must be ready to use Shield Block (which mitigates the attack). 
-Flame Crash: Illidan jumps up high and lands in a patch of blue flames directly underneath his current position. The flames deal 5k fire damage per second. 10 yard radius. They remain on the ground for 2 minutes. 1.3 sec cast. 
-Draw Soul: Illidan will drain targets in front of him in a similar way to Cone of Cold, dealing 5k shadow damage and healing Illidan for 100,000 HP. Shadow based spell. Resistible. 
-Parasitic Shadowfiend: Random raid members will be targeted with a Parasites debuff lasting 10 seconds and dealing 3k shadow damage every 2 seconds. Once this debuff has ticked off, 2 Parasites will spawn at the affected player's location and attempt to melee whoever is highest on global threat (generally a healer). If they are successful in this melee attack, the targeted raid member will receive the Parasitic Shadowfiend debuff. Parasites have around 6k HP. 
-Agonizing Flames: Illidan will randomly target a player and cast this, dealing 4000 initial fire damage to the target and anyone within 5 yards, and giving them a debuff which causes fire 3k damage every 5 seconds for 1 minute. He will only use this ability in night elf form in phase 3. 
-Enrage: Increases damage and attack speed after a time during phase 5. 
-Demon Form: 
-
- 
-Illidan in Demon FormShadow Blast: Illidan will Shadow Blast the target highest on threat for between 8k and 11k shadow damage. This Shadow Blast has a splash effect - raid members within 20 yards of the affected target will receive the damage from the spell. Resistible. 
-Flame Burst: Illidan throws fire upon the entire raid for around 3.5k damage every 10 seconds. Players within 5 yards of each other will receive splash damage from this ability. Resistible. 
-Shadow Demons: During this phase Illidan will spawn 4 Shadow Demons at his feet that target random raid members and paralyze (stun) them. The demons will then slowly move towards the players in question; if they reach one of the players then he/she will die and the demon will target somebody else. The demons have around 22k HP. 
-Aura of Dread: A 15 yard aura surrounds Illidan dealing 1000 shadow damage every second to raid members within 15 yards of him, and also increasing Shadow Damage taken by 30%. This effect stacks over time. 
-Flying in air: 
-
-Fireball: casting time 2 sec, Deal fire damage 2550-3450 in 10 yards radius. 
-Eye Blast: Illidan will sweep a fiery blue beam, emanating from his eyes, across the platform every 30 seconds. This deals around 19750-20250 fire damage on initial hit and spawns Demon Fire on the ground for 1 minute. 
-Demon fire: This is the blue fire trail left on ground by Eye Blast. It deals 2000 fire damage per second if you stand in it. 
-Dark Barrage: Illidan randomly chooses a player and places a dark eye beam on him, which deals 3000 shadow damage per second for 10 seconds. 
-Flames of Azzinoth: 
-
-Health: around 1 million 
-Melee: They hit for around 2-3k fire damage on a 365 fire resistance tank if you get a 75% resist check. Their base hit is roughly 15k fire damage. They can crit, but they do not crush. 
-Blaze: The Flames will leave a cloud of yellow flame underneath them on the ground, which deals 5000 fire damage per second. Two different Blazes in the same location DO stack. 
-Flame Blast: Frontal cone 15 yard AoE which deals 7000-9000 fire damage. 
-Enrage/Charge: Each blade on the ground has an invisible aura with 25 yard range that grants immunity to charge from *both* elementals (i.e. you only need to be under of affect of one of the auras), if anyone steps outside this aura or an elemental gets further than 25 yards from its own blade they will charge/enrage and wipe the raid. 
-Encounter Enrage Timer: 
-
-Berserk (Hard Enrage): - After 25 minutes Illidan will go berserk, 500% damage increase and 150% attack speed, killing the entire raid in VERY short order. 
-[edit] Strategy
-4 Tanks must be used for his encounter: 
-
-MT Warrior or Paladin 
-
-OT x2 In fire resistance gear and can be a Druid, Paladin, or Warrior 
+Beams: Every 9 seconds, one of the following beams will fire to a random raid member and will jump to other raid members. Beams can chain any distance. 
+Sinful Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Deals 6938 to 8062 shadow damage. 
+Sinister Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Causes 2000 shadow damage and has a knockback effect. Deals Approx. 50% falling damage. 
+Vile Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Deals 2500 shadow damage every 2 seconds for 8 seconds. 
+Wicked Beam: Strikes an enemy with shadow energy that jumps to another nearby enemy. Affects up to 10 targets. Burns 1000 mana. Deals 4000 (1000 with shadow resistance) Shadow Damage 
 
 
-Warlock Tank with shadow protection gear 
 
-9 Healers are recommended, but the encounter can be completed with only 8. 
+Fatal Attraction: Teleports 1-3 players to same location and links them with demonic energy. A Debuff on the affected players deals 2775 to 3225 AoE Shadow damage to nearby allies within 15 yards every 1 second, lasts for 30 seconds. The debuff will fade if everyone carrying the debuff is separated 25 yards away from each other. This ability is considered the most random and annoying part of the encounter by most raiders. 
+Silencing Shriek: Applies aura on anyone within 18 yards and silences those affected for 10 seconds. Can be resisted. (Sorry paladin tanks) 
+Saber Lash: Frontal cleave-like attack occurs on about 85% of her normal attacks. Does damage divided evenly among all affected targets (up to a max of 2 others besides the main tank), causes 76000-84000 physical damage. 20 yds range. Also provides immunity for beams and Fatal Attraction for 30 secs after it lands. 
+Prismatic Auras: Every 15 seconds, Mother Shahraz will change to a different Prismatic Aura. Each Prismatic Aura reduces damage done by one spell school, while increasing the damage done by the opposite spell school. The auras have the following effects: 
+Prismatic Aura: Arcane 
+Arcane damage done reduced by 25%. 
+Nature damage done increased by 25%. 
+Prismatic Aura: Shadow 
+Shadow damage done reduced by 25%. 
+Holy damage done increased by 25%. 
+Prismatic Aura: Holy 
+Holy damage done reduced by 25%. 
+Shadow damage done increased by 25% 
+Prismatic Aura: Fire 
+Fire damage done reduced by 25%. 
+Frost damage done increased by 25%. 
+Prismatic Aura: Frost 
+Frost damage done reduced by 25%. 
+Fire damage done increased by 25%. 
+Prismatic Aura: Nature 
+Nature damage done reduced by 25%. 
+Arcane damage done increased by 25%. 
+Enrage: at 20% she periodically enrages for a short time increasing damage and attack speed, not greatly dangerous, healers need to watch out 
+==Strategy==
+This is a shadow resistance fight, and it is necessary for members of the raid to have high Shadow Resistance. 
 
-==Stages==
-Stage 1 HP: 6070400 Damage: 19914-28157 Abilities: Shear: Deals melee damage and reduces the target's maximum health by 60% for 7 sec. Flame Crash: Deals 925 to 1075 Fire damage in an area in front of Illidan, as well as creating an area of fire in the same location. This area deals 5000 Fire damage to anyone who steps into it. Draw Soul: Deals 4500 to 5500 Shadow damage to everyone in front of Illidan, regardless of range. Illidan will gain 100,000 health for every target that is affected by this. Parasitic Shadowfiend: Deals 3000 Shadow damage every 2 sec. for 10 sec. This also summons a Parasitic Shadowfiend at the end of the duration of the damage over time spell. 
+There are two strategies for this encounter: One Group and Three Groups. 
 
-When his health reaches 90%, Illidan calls for the help of his minions which will be dealt with by Akama. The first stage continues until Illidan reaches the 65% mark, at which point he will fly in the air, starting stage 2. 
+==One Group==
+All casters / healers stands beneath the right hand pillar near Mother Shahraz. She is tanked at the opposite pillar facing along the the terrace with melee behind her, this avoids parries when she turns to cast beams (except directly at the melee) which can be deadly as she deals nasty damage to the main tank. Standing underneath the pillar also has the bonus that when players are knocked up by the Sinister Beam they hit the top of the pillar and take slightly less fall damage. 
 
-Stage 2 HP: 6070400 Damage: 19914-28157 Abilities: Fireball: Deals 2550 to 3450 Fire damage in a 10 yard radius. Dark Barrage: Targets a random person in the raid and deals 3000 shadow damage per second for 10 sec. Eye Blast: Deals a stream of damage across Illidan's chamber, incinerating targets with 19750 to 20250 Shadow damage in 6 yard radius around the blast. On top of this instant damage dealt, the eye blast also leaves behind a trail of fire that will damage players if they touch it. 
+Offtanks stand directly on top of the MT and try to use a ranged weapon or skill to attack the boss before she reaches the MT, otherwise you will not be in combat and the saberlash will not be split between them, 1 shotting the MT. 
 
-In Stage 2 Illidan will fly in the air and cannot be attacked but he will throw down his 2 Blades of Azzinoth on opposite sides of the circle that marks the center of The Black Temple's summit. Each blade will spawn a Flame of Azzinoth, a powerful fire elemental with over 1 million hit points. The second stage ends when both Flame of Azzinoth are dead. Move away from the inner circle and prepare for stage 3. 
+People with fatal attraction must take care to run AWAY from the tanks or the caster groups, and then take a healthstone. It is recommended to put down a [Shadow Protection Cauldron] at the start of the encounter for everyone as well. 
 
-Stage 3: HP: 6070400 Damage: 19914-28157 Abilities: Agonizing Flames: This is an area effect fire spell that deals damage over time to anyone affected. Deals a total of 36000 Fire damage over 60 sec. It hits a random player outside of 15 yards, unless it cannot find anyone, then it just hits anyone it can find. The damage it deals increases over time, similar to Curse of Agony. Flame Burst: Throws fireballs to everyone in the raid outside of 15 yards. Deals 3238 to 3762 Fire damage to the target and all targets in a 5 yard radius. Summon Shadow Demons: Summons 4 Shadow Demons to aid the caster. These demons cast Paralyze on a random target and move towards them slowly, ignoring everyone else. If they get to their target, they instantly kill them and choose a new target. Uncaged Wrath: Increases Illidan's damage by 500%and movement speed by 200% Demonic Transformation: Turns Illidan into a massive demon with different abilities. Shadow Blast: Deals area damage around the target and all friends of the target. This one will be fired off constantly during this phase, it has zero cooldown. 
+Advantages: More space for people with fatal attraction to run around in. 
+Disadvantages: It is possible for 3 people with fatal attraction to be teleported in to the caster group, this will do some nasty damage potentially causing a wipe 
+Another tactic is to gather everyone and stand under Mother Shahraz's skirt. This involves everyone in the raid group running "under" Mother Shahraz and fighting/healing from there. 
 
-Stage 4 75 sec. after the death of the second Shard of Azzinoth which ended the second stage Illidan turns into his Demon Form and begin Stage 4. At Stage 4 Illidan will wipe his threat meter. 
+Advantages: Few/none will be hit by the beams 
+Disadvantages: It is possible for a wipe if one person does not stand DIRECTLY under her skirt. 
+==Three Groups==
+The casters / healers are split into three groups which are placed at equal angles and distances around the boss. 
 
-Stage 5 As Illidan reaches 30% health, Maiev Shadowsong enters the battle. She periodically blinks to a player in the raid and places down a trap that can be used against Illidan. In this stage, Illidan enters an enraged state which significantly increases his damage to the point of being unhealable. The tank needs to drag Illidan towards the trap, click to activate it, and position Illidan on top of it. While trapped, Illidan takes additional damage from every player attacking him. Keep attacking him until hes hit points reaches zero.
+Advantages: if a bad fatal attraction occurs at most one group will be hit. 
+Disadvantages: it is much more likely a group will be hit by fatal attractions, and people with the attraction have less space to run apart. 
+==Craftable Resistance Gear==
+This fight requires that players have a high level of Shadow Resistance. A list of craftable resistance gear suitable for this fight and materials required can be found at Mother Shahraz/Shadow resist gear.

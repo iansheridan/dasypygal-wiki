@@ -1,26 +1,18 @@
-{| align="right"
-  | __TOC__
-  |}
+"two-fiddy" - '''Veldrane'''
 
-==Joining a Raid==
-Our raid times are 8:30PM to Midnight : Server time : Monday-Thursday.
+"it's your computer" - '''Sidnae'''
 
-*[[Raiding Ranks]]
-*[[Raid Sign-up and Invite Policy]]
-*[[Raid Preparation]]
+"SAND!!!!!!!!!!!!" - '''The Healing Team'''
 
-==Loot Distribution System==
-*[[DKP]]
+"DiiIIICCK!™" - '''Darganis'''
 
-==Raiding Enhancements==
-*[[Required Raiding Addons]]
-*[[TeamSpeak]]
+"The fans don't pay to see Malthran hold back." - '''Malthran'''
 
 
-==Instance & Boss Strategies==
-*[[Blackwing Descent]]
-*[[Bastion of Twilight]]
-*[[Throne of the Four Winds]]
+"...that is IMO like taking a giant dump on somebody's chest (not for fun either)." - '''Judged'''
 
-==Combat Log Reports==
-*[http://dasypygal.dyndns.org/forums/viewforum.php?f=26 Raid Reports Forum]
+
+"Hey Morogrim, what's with the wheel on your belt?  Arrgh, it's driving me nuts." - '''Flaxx'''
+
+
+"Girlfriend's in town. T6 Chest > T6 Gloves." - '''Aescent'''

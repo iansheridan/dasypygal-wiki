@@ -1,46 +1,719 @@
-{| align="right"
-  | __TOC__
-  |}
+A Restoration Shaman is an integral part of any healing team. The shaman’s chain heal ability is one of the strongest multi-target healing spells in the game. In addition, a Resto Shaman brings valuable group buffs such as mana spring, mana tide, Earth Shield and Bloodlust. This article should provide resources for both experienced and new resto shaman, plus raid leaders.
 
-== About Dasypygal Gentlemen ==
-We are an Alliance Guild of dwarves, gnomes and humans (oh we have a bunch of hairy night-elves also but don’t tell anyone  ). Our name might seem like we are a male oriented guild but that was ignored by all the beautiful ladies that have join our illustrious guild (hehe hair is had by all you know). Read the history section to find out the origin of our illustrious guild. It is also suggested that you look up the meaning of the word Dasypygal. (trust me look it up now)
+===Major Abilities===
+====Chain Heal====
+Chain heal is the shaman's signature heal and the one that all the other healing classes wish they had. After healing the initial target, the healing effect will jump to the most damaged target (by absolute health) within range. Each jump reduces the healing done by 50%. The jump range of the spell is approximately 10-15 yards. If there are no targets in range below 100% it will not jump. The heal can jump back to the shaman if they have taken damage.
 
-Mainly we are a mature group of gamers looking to have a good time. That said, we are on most evenings after 7-8 o’clock EST. 
+In many raids, chain heal will represent more than 90% of all healing. Shaman are often assigned to heal the raid, meaning healing everyone besides the main tank. The shaman's Chain Heal, along with a priest's Circle of Healing, are  the best multi-target heals in the game.
 
-'''''Dasypygal Gentlemen is the support structure that will assist the growth of your character.'''''
+Chain heal can crit on any (or all) of the three jumps. However, the healing done to the next target is based on the non-crit healing done. Crits from chain heal will proc Ancestral Fortitude.
 
-==D'Gentlemen General Information==
-*[[Our History]]
-*[[Ranks]]
-*[[Officers]]
+There is a known bug with Chain Heal. If Chain Heal jumps back to you on its first jump (the second heal), it will not jump to a third target. It is sometimes better to target yourself for the first heal to make sure it jumps to two other targets.
 
-==Policies and Procedures==
-*[[How to join D'Gentlemen]]
-*[[Archived Hairy Codes]]
-*[[Raiding]]
+Many trinkets will proc based on a “direct healing spells.” Each jump of chain heal is considered a direct heal. A trinket such as <item>Fel Reaver's Piston</item> or <item>Eye of Gruul</item> can proc on any jump of chain heal. 
 
-==Current Raid Focus==
-*[[Mount Hyjal]]
-*[[Black Temple]]
+Other trinkets proc based on “each spell cast.” In those cases, the jumps do not count as separate spells. For example, <item>Pendant of the Violet Eye</item>
+ 
+It receives the following bonuses from +healing gear:
 
-== Class Guides ==
+71% + 36% + 18% = 125% with no talents
+94% + 47% + 24% = 165% with Purification (+10%) and Improved Chain Heal (+20%)
 
-===All Classes===
-[[Class Channels]] : ''in game chat channels for all classes and roles''
+Many shaman downrank Chain Heal to Rank 4 (and sometimes even Rank 3). Rank 4 gets the full benefit of your plus healing since it is learned at level 61 and is not subject to the down ranking penalty. By using Rank 4, you reduce your mana costs by 19% but lose only 10% of your healing power.
 
 
-===Class Specific Wiki's===
-*[[Druid]]
-*[[Hunter]]
-*[[Mage]]
-*[[Paladin]]
-*[[Priest]]
-*[[Rogue]]
-*[[Shaman]]
-*[[Warlock]]
-*[[Warrior]]
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Cast Time'''</td><td>'''Mana''' </td><td>'''Healing''' </td><td>'''Healing''' </td><td>'''Healing''' </td><td>'''Heal/Mana'''</td><td>'''Heal/Mana '''</td><td>'''Heal/Mana '''</td></tr><tr class="alt1"><td> </td><td> </td><td> </td><td>'''Jump #1'''</td><td>'''Jump #2'''</td><td>'''Jump #3'''</td><td>J'''ump #1'''</td><td>J'''ump #2'''</td><td>'''Jump #3'''</td></tr><tr class="alt2"><td>'''Rank 1'''	</td><td><div align="center">2.50	</div></td><td>247	</td><td>1900	</td><td>2849	</td><td>3324	</td><td>7.7	</td><td>11.5	</td><td>13.5</td></tr><tr class="alt1"><td>'''Rank 2'''	</td><td><div align="center">2.50</div>	</td><td>299.25	</td><td>2233	</td><td>3349	</td><td>3907	</td><td>7.5	</td><td>11.2	</td><td>13.1</td></tr><tr class="alt2"><td>'''Rank 3	'''</td><td><div align="center">2.50</div>	</td><td>384.75	</td><td>2634	</td><td>3951	</td><td>4610	</td><td>6.8	</td><td>10.3	</td><td>12.0</td></tr><tr class="alt1"><td>'''Rank 4	'''</td><td><div align="center">2.50</div>	</td><td>413.25	</td><td>2823	</td><td>4235	</td><td>4940	</td><td>6.8	</td><td>10.2	</td><td>12.0</td></tr><tr class="alt2"><td>'''Rank 5	'''</td><td><div align="center">2.50	</div></td><td>513	</td><td>3135	</td><td>4702	</td><td>5486	</td><td>6.1	</td><td>9.2	</td><td>10.7 </td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->CREDIT: [http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Daidalos ]
+NOTE: +2000 Healing with Totem of Healing Rains (+87 healing)
+
+'''Overall Comparison'''
+'''Chain Heal is the shaman’s most efficient heal, even when it doesn’t hit all three targets. '''
+
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Mana'''</td><td>'''Avg Heal'''</td><td>'''Healing/Mana'''</td><td>'''Healing/sec'''</td></tr><tr class="alt1"><td>'''Chain Heal 4 (3 jumps)'''</td><td>413</td><td>4940</td><td>12.0</td><td>1976</td></tr><tr class="alt2"><td>'''Chain Heal 5 (3 jumps)'''</td><td>513</td><td>5486</td><td>10.7</td><td>2194</td></tr><tr class="alt1"><td>'''Chain Heal 4 (2 jumps)'''</td><td>413</td><td>4235</td><td>10.2</td><td>1694</td></tr><tr class="alt2"><td>'''Earth Shield 3 (6 charges)'''</td><td>450</td><td>5058</td><td>11.2</td><td>211</td></tr><tr class="alt1"><td>'''Chain Heal 5 (2 jumps)'''</td><td>513</td><td>4702</td><td>9.2</td><td>1881</td></tr><tr class="alt2"><td>'''Healing Wave 7 (HW x 3)'''</td><td>323</td><td>2793</td><td>8.6</td><td>1117</td></tr><tr class="alt1"><td>'''Healing Wave 8 (HW x 3)'''</td><td>418</td><td>3442</td><td>8.2</td><td>1377</td></tr><tr class="alt2"><td>'''Healing Wave 12 (HW x 3)'''</td><td>684</td><td>5289</td><td>7.7</td><td>2116</td></tr><tr class="alt1"><td>'''Healing Wave 7'''</td><td>323</td><td>2367</td><td>7.3</td><td>947</td></tr><tr class="alt2"><td>'''Healing Wave 8'''</td><td>418</td><td>2917</td><td>7.9</td><td>1167</td></tr><tr class="alt1"><td>'''CHain Heal 4 (1 jump)'''</td><td>413</td><td>2823</td><td>6.8</td><td>1129</td></tr><tr class="alt2"><td>'''Healing Wave 12'''</td><td>684</td><td>4482</td><td>6.6</td><td>1793</td></tr><tr class="alt1"><td>'''Chain Heal 5 (1 jump)'''</td><td>513</td><td>3135</td><td>6.1</td><td>1254</td></tr><tr class="alt2"><td>'''Lesser Healing Wave 6'''</td><td>361</td><td>1954</td><td>5.4</td><td>1303</td></tr><tr class="alt1"><td>'''Lesser Healing Wave 7'''</td><td>418</td><td>2203</td><td>5.3</td><td>1469</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->CREDIT: [http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Daidalos ]
+HW x 3 = Healing Way stacked three times
+With 2000 +healing and using the best +healing relic for each spell
 
 
-==Just for Fun==
-[[Famous DG Quotes]]
-[[WrathOfTheLichKingInformation]]
+'''And Chain Heal gets even better when you get the Tier 6 set bonuses.'''
+
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Mana'''</td><td>'''Avg Heal'''</td><td>'''Healing/mana'''</td><td>'''Healing/sec'''</td></tr><tr class="alt1"><td>'''Chain Heal 4 (3 jumps) 4pc T6'''</td><td>372</td><td>5187</td><td>13.9</td><td>2075</td></tr><tr class="alt2"><td>'''Chain Heal 4 (3 jumps) 2pc T6'''</td><td>372</td><td>4940</td><td>13.3</td><td>1976</td></tr><tr class="alt1"><td>'''Chain Heal 5 (3 jumps) 4 pc T6'''</td><td>462</td><td>5760</td><td>12.5</td><td>2304</td></tr><tr class="alt2"><td>'''Chain Heal 4 (2 jumps) 4pc T6'''</td><td>372</td><td>4446</td><td>12.0</td><td>1779</td></tr><tr class="alt1"><td>'''Chain Heal 4 (3 jumps)	'''</td><td>413</td><td>4940</td><td>12.0</td><td>1976</td></tr><tr class="alt2"><td>'''Chain Heal 5 (3 jumps) 2 pc T6'''</td><td>462</td><td>5486</td><td>11.9</td><td>2194</td></tr><tr class="alt1"><td>'''Chain Heal 4 (2 jumps) 2pc T6'''</td><td>372</td><td>4235</td><td>11.4</td><td>1694</td></tr><tr class="alt2"><td>'''Chain Heal 5 (2 jumps) 4 pc T6'''</td><td>462</td><td>4937</td><td>10.7</td><td>1975</td></tr><tr class="alt1"><td>'''Chain Heal 5 (3 jumps)	'''</td><td>513</td><td>5486</td><td>10.7</td><td>2194</td></tr><tr class="alt2"><td>'''Chain Heal 4 (2 jumps)	'''</td><td>413</td><td>4235</td><td>10.2</td><td>1694</td></tr><tr class="alt1"><td>'''Chain Heal 5 (2 jumps) 2 pc T6'''</td><td>462</td><td>4702</td><td>10.2</td><td>1881</td></tr><tr class="alt2"><td>'''Earth Shield 3 (6 charges)'''</td><td>450</td><td>5058</td><td>11.2</td><td>211</td></tr><tr class="alt1"><td>'''Chain Heal 5 (2 jumps)'''</td><td>513</td><td>4702</td><td>9.2</td><td>1881</td></tr><tr class="alt2"><td>'''Healing Wave 7 (HW x 3)'''</td><td>323</td><td>2793</td><td>8.6</td><td>1117</td></tr><tr class="alt1"><td>'''Healing Wave 8 (HW x 3)'''</td><td>418</td><td>3442</td><td>8.2</td><td>1377</td></tr><tr class="alt2"><td>'''Chain Heal 4 (1 jump) 4pc T6'''</td><td>372</td><td>2964</td><td>8.0</td><td>1186</td></tr><tr class="alt1"><td>'''Healing Wave 12 (HW x 3)'''</td><td>684</td><td>5289</td><td>7.7</td><td>2116</td></tr><tr class="alt2"><td>'''Healing Wave 7	'''</td><td>323</td><td>2367</td><td>7.3</td><td>947</td></tr><tr class="alt1"><td>'''Chain Heal 4 (1 jump) 2pc T6'''</td><td>372</td><td>2823</td><td>7.6</td><td>1129</td></tr><tr class="alt2"><td>'''Healing Wave 8	'''</td><td>418</td><td>2917</td><td>7.0</td><td>1167</td></tr><tr class="alt1"><td>'''Chain Heal 5 (1 jump) 4 pc T6	'''</td><td>462</td><td>3291</td><td>7.1</td><td>1317</td></tr><tr class="alt2"><td>'''Chain Heal 4 (1 jump)	'''</td><td>413</td><td>2823</td><td>6.8</td><td>1129</td></tr><tr class="alt1"><td>'''Chain Heal 5 (1 jump) 2 pc T6'''	</td><td>462</td><td>3135</td><td>6.8</td><td>1254</td></tr><tr class="alt2"><td>'''Healing Wave 12'''	</td><td>684</td><td>4482</td><td>6.6</td><td>1793</td></tr><tr class="alt1"><td>'''Chain Heal 5 (1 jump)'''	</td><td>513</td><td>3135</td><td>6.1</td><td>1254</td></tr><tr class="alt2"><td>'''Lesser Healing Wave 6'''</td><td>361</td><td>1954</td><td>5.4</td><td>1302</td></tr><tr class="alt1"><td>'''Lesser Healing Wave 7'''</td><td>418</td><td>2203</td><td>5.3</td><td>1469</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->CREDIT: [http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Daidalos ]
+HW x 3 = Healing Way stacked three times
+Using 2000 +healing with talents and the best +healing relic for each spell
+
+====Healing Wave====
+This is the largest  heal shaman can cast. It takes 2.5 seconds to cast (3.0 seconds without talents). It receives 86% of our plus healing, which is not reduced by talents to shorten cast time. And by stacking Healing Way we can boost its healing another 18%. Shaman often start casting this heal and then cancel if the tank is not taking damage
+
+You can spam Rank 1 to proc Ancestral Fortitude and stack Healing Way either before a pull or during a fight.
+
+Shaman often use Rank 8 as well as Rank 12.
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Cast Time'''</td><td>'''Mana Cost'''</td><td>'''Avg Heal'''</td><td>'''Avg Heal'''</td><td>'''Healing/sec'''</td><td>'''Healing/sec'''</td></tr><tr class="alt1"><td> </td><td> </td><td> </td><td> </td><td>'''HW x 3'''</td><td> </td><td>'''HW x3'''</td></tr><tr class="alt2"><td>'''Rank 1'''</td><td>	<div align="center">1.00	</div></td><td>23.75	</td><td>173	</td><td>204	</td><td>7.3	</td><td>8.6	</td></tr><tr class="alt1"><td>'''Rank 2'''	</td><td><div align="center">1.50</div>	</td><td>42.75	</td><td>222	</td><td>261	</td><td>5.2	</td><td>6.1	</td></tr><tr class="alt2"><td>'''Rank 3'''	</td><td><div align="center">2.00	</div></td><td>76.00	</td><td>318	</td><td>375	</td><td>4.2	</td><td>4.9	</td></tr><tr class="alt1"><td>'''Rank 4'''	</td><td><div align="center">2.50	</div></td><td>147.25</td><td>382	</td><td>451	</td><td>2.6	</td><td>3.1	</td></tr><tr class="alt2"><td>'''Rank 5	'''</td><td><div align="center">2.50	</div></td><td>190.00	</td><td>1489	</td><td>1757	</td><td>7.8	</td><td>9.2	</td></tr><tr class="alt1"><td>'''Rank 6'''	</td><td><div align="center">2.50</div>	</td><td>251.75	</td><td>1902	</td><td>2245	</td><td>7.6	</td><td>8.9	</td></tr><tr class="alt2"><td>'''Rank 7'''	</td><td><div align="center">2.50</div>	</td><td>323.00	</td><td>2367	</td><td>2793	</td><td>7.3	</td><td>8.6	</td></tr><tr class="alt1"><td>'''Rank 8	'''</td><td><div align="center">2.50</div>	</td><td>418.00	</td><td>2917	</td><td>3442	</td><td>7.0	</td><td>8.2	</td></tr><tr class="alt2"><td>'''Rank 9'''	</td><td><div align="center">2.50</div>	</td><td>532.00	</td><td>3436	</td><td>4055	</td><td>6.5	</td><td>7.6	</td></tr><tr class="alt1"><td>'''Rank 10'''</td><td><div align="center">2.50	</div></td><td>589.00	</td><td>3821	</td><td>4509	</td><td>6.5	</td><td>7.7	</td></tr><tr class="alt2"><td>'''Rank 11'''	</td><td><div align="center">2.50	</div></td><td>622.25	</td><td>4000	</td><td>4720	</td><td>6.4	</td><td>7.6	</td></tr><tr class="alt1"><td>'''Rank 12'''	</td><td><div align="center">2.50</div>	</td><td>684.00</td><td>4482	</td><td>5289	</td><td>6.6	</td><td>7.7</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->CREDIT: [http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Daidalos] 
+NOTE: +2000 Healing with talents and Totem of Rejuvination (+88 healing). 
+HW=Healing Way
+
+====Lesser Healing Wave====
+This is the fastest heal a shaman can cast. However, unlike a Paladin's Flash of Light, it is an expensive spell to cast. It gets little benefit from your healing gear (only 42.8%). It also doesn't stack Healing Way. In most situations, shaman are better off casting Chain Heal Rank 4 (see chart below).
+
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Cast Time'''</td><td>'''Mana'''</td><td>'''Avg Heal        '''</td><td>'''Healing/mana'''</td></tr><tr class="alt1"><td>'''Rank 1	'''</td><td><div align="center">1.5</div></td><td>99.75	</td><td>653   </td><td>6.6</td></tr><tr class="alt2"><td>'''Rank 2'''	</td><td><div align="center">1.5	</div></td><td>137.75	</td><td>864   </td><td>6.3</td></tr><tr class="alt1"><td>'''Rank 3'''	</td><td><div align="center">1.5	</div></td><td>175.75	</td><td>1081  </td><td>6.2</td></tr><tr class="alt2"><td>'''Rank 4	'''</td><td><div align="center">1.5	</div></td><td>223.25	</td><td>1333  </td><td>6.0</td></tr><tr class="alt1"><td>'''Rank 5'''	</td><td><div align="center">1.5	</div></td><td>289.75	</td><td>1645  </td><td>5.7</td></tr><tr class="alt2"><td>'''Rank 6'''	</td><td><div align="center">1.5</div>	</td><td>361.00	</td><td>1954  </td><td>5.4</td></tr><tr class="alt1"><td>'''Rank 7	'''</td><td><div align="center">1.5	</div></td><td>418.00	</td><td>2203  </td><td>5.3</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->
+CREDIT: [http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Daidalos ]
+With +2000 healing and talents and Totem of the Plains (+79 healing)
+	
+It might seem like a waste to use Chain Heal for a single target taking damage but it’s actually more efficient than LHW. Plus, there’s always the chance that someone else in range will take damage and the spell will jump. 
+
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''Mana Cost'''</td><td>'''Avg Heal'''</td><td>'''Healing/'''</td><td>'''Healing/'''</td></tr><tr class="alt1"><td> </td><td> </td><td> </td><td>'''mana'''</td><td>'''sec'''</td></tr><tr class="alt2"><td>'''Chain Heal 4 (1 jump)'''</td><td>413</td><td>2823</td><td>6.8</td><td>1129</td></tr><tr class="alt1"><td>'''Lesser Healing Wave 7'''</td><td>418</td><td>2203</td><td>5.3</td><td>1469</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->NOTE: With +2000 healing and the best relic for each spell
+====Earth Shield====
+Many consider this the shaman’s version of a heal over time. It will last about 20-30 seconds on a player taking constant damage. It receives 28.6% of your +healing per charge (or 26.55% if you downrank to Rank 1 Earth Shield). Note that the 30% listed at Wowwiki is incorrect.
+
+The +healing is based on gear at the time cast, not when it procs. Therefore, you can put down Wrath of Air and use two trinkets to supercharge the Earth Shield before a pull. Note that Earth Shields cast on others do not get the benefit of your Purification talent and will heal for 10% less.       
+
+The healing is attributed to the person on whom the shield is cast. While this hurts you on the healing meter, it’s a tremendous benefit for a tank. Each point of damage healed will generate 0.725 threat against all mobs. In addition, all paladins have a passive ability called Spiritual Attunement that restores mana equal to 10% of the healing they receive. Since Patch 2.1.0, they have received mana back from the healing done by Earth Shield (and Prayer of Mending). Each point of mana restored generates 0.5 threat.
+
+Casters: Moonkin, Elemental Shaman and Shadow Priests have no talents to prevent spell pushback, which can sharply reduce their DPS in some fights. They will benefit the most from Earth Shield to boost DPS. Destruction warlocks have 70% resistance with talents. Elemental shaman with four pieces of Season 3 arena gear (Vengeful Gladiator) get 50% resistance on lightning bolts.
+
+Mages have talents to reduce spell pushback in both the fire and arcane trees.
+
+*Arcane mages have a first-tier talent to gives 100% resistance to spell pushback on Arcane Missiles.
+*Fire mages have a third-tier talent that gives 70% resistance to spell pushback on all fire spells.
+*There are no talents to reduce spell pushback on frost spells.
+*With two pieces of Tier 4, any mage will have 100% spell pushback resistance on Frostbolt and Fireball spells.
+
+====Water Shield====
+This is a tremendous source of mana regeneration. It's important to have it on at all times and refresh it before it expires. Many shaman do not wait until all three charges have been used to refresh. When there is a lull in healing, they take that time to put up 3 new charges since they might expire at a time when you can't spare the global cooldown to refresh the shield.
+
+Because it costs no mana to cast, water shield will not trigger the <a href="http://elitistjerks.com/f47/t15391-five_second_rule/" target="_blank">Five Second Rule</a>.
+
+The mod Shaman Friend will alert you when water shield expires. It has an option to give you an audible warning and you can choose several different sounds. It can also report  a successful purge, interrupt or grounding to party or raid channel
+
+You can also modify SCT to give an audible alert using these instructions:
+
+I'd like to share this little line of code that is inserted into 'interface\addons\sct\sct_event_config.lua'
+Inside the file there is a line local sct_Event_Config = { Next to that is a custom events list. I replaced 'lightning shield' event since it's usefulness is none to me. The file itself contains pretty clear explanations and examples for custom events so feel free to modify. It gives you warning when Water Shield fades. test.wav is your own to pick. 
+
+
+[3] = {display="Water Shield Faded!!!", type="FADESELF", search="Water Shield", icon=1, r=256/256, g=128/256, b=128/256, iscrit=1, soundwave="Interface\\AddOns\\sct\\sound.wav", class={"Shaman"}},
+ 
+
+CREDIT: Flopi
+
+====Totems====
+Only Resto shamans have the Mana Tide totem, which restores 24% of a player’s mana over 12 seconds. It affects everyone in the shaman’s party and has a 5-minute cooldown.
+
+Resto shaman also have talents to improve the performance of two totems:
+1) Improved Mana Spring Totem restores 62.5 mp5 instead of the regular 50 mp5
+2) Improved Healing Stream Totem, which does 25% more healing than a regular totem.
+
+Healing stream totems for different shamans stack. Mana spring totems do not.
+Mana Spring stacks with the Paladin’s Blessing of Wisdom.
+Tranquil Air stacks with the Paladin’s Blessing of Salvation (total of 44% threat reduction).
+
+===Talent Builds===
+These are considered must-have talents for raiding: 
+*Improved Healing Wave
+*Tidal Focus
+*Ancestral Healing
+*Healing Focus
+*Totemic Mastery
+*Restorative Totems
+*Healing Way
+*Nature’s Swiftness
+*Purification
+*Mana Tide Totem
+*Nature’s Blessing
+*Improved Chain Heal
+*Earth Shield
+
+Highly recommended talents
+*Tidal Mastery
+*Nature’s Guardian
+
+Tidal Mastery goes hand-in-hand with Ancestral Healing, which you absolutely should have. The 25% increase in armor from Ancestral Healing typically will give more protection than an Ironshield potion. Plus, the proc scales as your tank gets better gear. In addition, with multiple shamans in the raid, and each having 5% more crit, the chances of getting an Ancestral Healing proc rise a great deal.
+
+'''8-0-53''' 
+Recommended for new content because it offers the greatest survivability. Also recommended for fights involving fire, frost and nature damage since Elemental Warding reduces damage from these schools by 10%.
+
+Here is a sample of the [http://www.wowhead.com/?talent=hVcZZEc0tAeoted 8-0-53 spec]
+If you want both Elemental Warding and instant Ghost Wolf here's a [http://www.wowhead.com/?talent=hVcZx0bZEs0tVeotcd 8-7-46 spec]
+If you want both Nature's Guardian and instant Ghost Wolf you can try [http://www.wowhead.com/?talent=hZx0bZEs0tAeoted 0-7-54]
+
+'''0-12-49'''
+Recommended for farm content, mobility, improved DPS.
+
+You get the ability to cast ghost wolf instantly, plus the improved strength and agility totems to boost the DPS done by Hunters (BM) and feral druids. It will give a group an extra 11.5 agility and an extra 12.9 strength. Cheeky's spreadsheet in the Hunter thread can allow your to calculate exactly how much the group's DPS would increase but if your hunters are doing around 1000 DPS, the improved strength and agility totems would boost the DPS of each hunter by about 10 DPS. A feral druid might gain 15-20 DPS. So if the group's DPS increases by 50 DPS, over a 10-minute fight they would do an extra 30,000 damage. The spec sacrifices nothing in healing. What you lose is survivability (by giving up Nature's Guardian and Elemental Warding). However, if that's not an issue, extra DPS never hurts.
+
+Here's a sample of the [http://www.wowhead.com/?talent=hZxbdbZEc0tVjoted 0-12-49 spec]
+
+'''0-5-56 and 0-0-61'''
+These are very common specs but they do not make the best use of talent points.
+
+[u]Ancestral Knowledge[/u]
+Five points in Ancestral Knowledge boosts your mana pool by 5%. It sounds like a lot but a closer look shows you get a poor return on the points spent. The extra mana will probably be only enough to cast one extra chain heal. 
+
+Existing mana pool: 10,000
++5%:                       10,500
+Boost to mana tide:   120/5 minutes = 2 mp5
+
+The smaller your mana pool, the less benefit you receive. A shaman with 8,000 mana gains an extra 400 mana and only 1.67 mp5 through Mana Tide.
+
+[u]Totemic Focus[/u]
+Reduces the cost of your totems by 25%. It provides a bigger benefit than Ancestral Knowledge but still a weak talent for resto shaman. At worst, it will probably equate to giving you an extra 4.6 mp5 (Scenario 1). At best, it could give you the equivalent of 16.5 mp5 (Scenario 2).
+
+Scenario 1: You are in a caster group dropping Mana Spring and Wrath of Air. You drop your totems every 2 minutes.
+Mana Spring: 120 mana
+Wrath: 320 mana
+Total: 2,200 mana during a 10 minute fight. The talent would save you 550 mana or 4.6 mp5
+
+Scenario 2: You are in a melee group dropping Windfury, Strength of Earth, Healing stream and Searing Totem. You drop your totems every 1.5 minutes, or 7 times during the fight.
+
+Windfury: 325 mana (2275)
+Strength: 300 mana (2100)
+Healing: 95 mana (665)
+Searing: 205 mana x 2 (2870)
+Total: 7,910 mana during a 10 minute fight. The talent would save you 1,977.5 mana or 16.5 mp5 
+
+[u]Improved Reincarnation[/u]
+Instead of popping with 20% health and mana, you can pop with 40%. It also reduces the cooldown on your Reincarnation from an hour to 40 minutes. 
+
+There are a few fights were dying is unavoidable and it’s very handy to have a shaman pop (especially with extra health and mana). For example, if you get the Doomguard debuff during the Azgalor fight or if Teron Gorefiend chooses you for Shadow of Death. However, on most fights you should not die. And if you do die, there are probably several things going wrong with the raid and you resurrecting will not fix them before everyone wipes.
+
+[u]Focused Mind[/u]: A weak talent for raiding since most bosses do not silence. PVP talent.
+
+[u]Healing Grace[/u]: Reduces threat from healing by up to 15%. A helpful talent on the initial pull but not necessary for successful raiding.
+
+===The Well Dressed Resto Shaman===
+====Stat weights to evaluate gear====
+Arriving at standard weights for stats is much more difficult for a healing class than a DPS class. In some fights, you may be assigned to heal a single target. In other fights, you may be healing the entire raid. Some fights may last 2 minutes, while others go on for more than 20 minutes. 
+
+In general, +healing is more valuable than mp5. Stacking +healing gives you the option of conserving mana by downranking your heals. If mana is not an issue, +healing allows you to produce a tremendous amount of healing per second (HPS). Mp5 gives you no such choice. While it can be helpful in some fights, it is wasted in others or when grouped with a shadow priest. Having +healing is never wasted.
+
+The Healing Equivalency Points (HEP) assigns weights, or scores, to each stat point. These HEP values can then be used in your own spreadsheet or by programs such as LootRank and Thottbot to score items. To display these values in-game, try a mod such as [http://pawnmod.trenchrats.com/index.php Pawn] or Enhancer.
+
+Do not use armor values when comparing shields. Due to the large amount of armor on these items, it skews the results. Stat weights if you have Blessing of Kings are in parenthesis.
+
+For more control over gear rankings (such as playing with different gems and set bonuses), I highly recommend [http://hosted.filefront.com/Binkenstein Binkenstein’s Shamstats]. [u]Shaman are encouraged to customize their own stat weights. [/u]Treat the values below as a starting point, not the final answer on how to rank gear. These numbers were not carved into stone tablets on Mount Sinai. Intellect value with kings given in parenthesis.
+
+Tier 4 = entry-level raiding such as Karazhan or Gruul's Lair
+Tier 5= mid-level raiding such as Tempest Keep or SSC
+Tier 6= high-level raiding such as Black Temple, Mount Hyjal and Sunwell
+
+<table class="stg_table tborder"><tr class="alt2"><td> </td><td>'''T4'''</td><td>'''T5'''</td><td>'''T6'''</td></tr><tr class="alt1"><td>'''Stamina'''</td><td>0.20</td><td>0.30</td><td>0.30</td></tr><tr class="alt2"><td>'''Intellect'''</td><td>1.00 (1.1)</td><td>0.68 (0.75)</td><td>0.75 (0.83)</td></tr><tr class="alt1"><td>'''Healing'''</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr class="alt2"><td>'''Spell Crit'''</td><td>0.25</td><td>0.45</td><td>0.80</td></tr><tr class="alt1"><td>'''Mp5'''</td><td>4.5</td><td>3.4</td><td>1.3</td></tr><tr class="alt2"><td>'''Spell Haste'''</td><td>0.0</td><td>0.68</td><td>2.0</td></tr><tr class="alt1"><td>'''Armor'''</td><td>0.01</td><td>0.01</td><td>0.01</td></tr></table><!-- table generated by StG's vB Code [table] v.0.1.6.0 (stable) o.95 -->
+LootRank does not correctly value <item>Insightful Earthstorm Diamond</item>, which conservatively returns 17.5 mp5 and has +12 Intellect. Enter the HEP value manually if you are using this meta gem. 
+
+Here are LootRank.com listings pre-filled with these HEP values. Do not use LootRank to compare trinkets or relics.
+[http://www.lootrank.com/wow/rank.asp?Cla=64&amp;i7=1&amp;j1=1&amp;s7=1&amp;s8=4&amp;Art=0&amp;i1=1&amp;j2=1&amp;s1=1&amp;s2=4&amp;Slot=0&amp;i2=1&amp;j4=1&amp;s3=1&amp;s4=4&amp;Max=10&amp;i8=1&amp;k1=1&amp;s5=1&amp;s6=4&amp;Gem=4&amp;i3=1&amp;k2=1&amp;j5=1&amp;i4=1&amp;k6=1&amp;j6=1&amp;i5=1&amp;k3=1&amp;i6=1&amp;k4=1&amp;j3=1&amp;k5=1&amp;Str=0&amp;Arm=0.1&amp;Exp=0&amp;mp5=13&amp;Sta=3&amp;Def=0&amp;mcr=0&amp;heal=10&amp;Agi=0&amp;Dod=0&amp;mhit=0&amp;spc=8&amp;Int=7.5&amp;blv=0&amp;map=0&amp;sph=0&amp;Spi=0&amp;blr=0&amp;fap=0&amp;spd=0&amp;par=0&amp;arp=0&amp;fid=0&amp;Sckm=0&amp;res=0&amp;mh=0&amp;frd=0&amp;dps=0&amp;ard=0&amp;odps=0&amp;nad=0&amp;rdps=0&amp;shd=0&amp;has=20&amp;spp=0&amp;Ver=2 
+Tier 6 Gear List]
+[http://www.lootrank.com/wow/rank.asp?Cla=64&amp;j1=1&amp;s7=1&amp;s8=4&amp;Art=0&amp;j2=1&amp;s1=1&amp;s2=4&amp;Slot=0&amp;i2=1&amp;j4=1&amp;s3=1&amp;s4=4&amp;Max=10&amp;i8=1&amp;k1=1&amp;s5=1&amp;s6=4&amp;Gem=4&amp;i3=1&amp;k2=1&amp;j5=1&amp;i4=1&amp;k6=1&amp;j6=1&amp;i5=1&amp;k3=1&amp;i6=1&amp;k4=1&amp;j3=1&amp;k5=1&amp;Str=0&amp;Arm=0.1&amp;Exp=0&amp;mp5=34&amp;Sta=3&amp;Def=0&amp;mcr=0&amp;heal=10&amp;Agi=0&amp;Dod=0&amp;mhit=0&amp;spc=4.5&amp;Int=6.8&amp;blv=0&amp;map=0&amp;sph=0&amp;Spi=0&amp;blr=0&amp;fap=0&amp;spd=0&amp;par=0&amp;arp=0&amp;fid=0&amp;Sckm=677&amp;res=0&amp;mh=0&amp;frd=0&amp;dps=0&amp;ard=0&amp;odps=0&amp;nad=0&amp;rdps=0&amp;shd=0&amp;has=6.8&amp;spp=0&amp;Ver=2 
+Tier 5 Gear List]
+[http://www.lootrank.com/wow/rank.asp?Cla=64&amp;j1=1&amp;s7=1&amp;s8=4&amp;Art=0&amp;j2=1&amp;s1=1&amp;s2=4&amp;Slot=0&amp;j4=1&amp;s3=1&amp;s4=4&amp;Max=10&amp;k1=1&amp;s5=1&amp;s6=4&amp;Gem=4&amp;i3=1&amp;k2=1&amp;j5=1&amp;i4=1&amp;k6=1&amp;j6=1&amp;i5=1&amp;k3=1&amp;i6=1&amp;k4=1&amp;j3=1&amp;k5=1&amp;Str=0&amp;Arm=0.1&amp;Exp=0&amp;mp5=45&amp;Sta=2&amp;Def=0&amp;mcr=0&amp;heal=10&amp;Agi=0&amp;Dod=0&amp;mhit=0&amp;spc=2.5&amp;Int=10&amp;blv=0&amp;map=0&amp;sph=0&amp;Spi=0&amp;blr=0&amp;fap=0&amp;spd=0&amp;par=0&amp;arp=0&amp;fid=0&amp;Sckm=908&amp;res=0&amp;mh=0&amp;frd=0&amp;dps=0&amp;ard=0&amp;odps=0&amp;nad=0&amp;rdps=0&amp;shd=0&amp;has=0&amp;spp=0&amp;Ver=2 Tier 4 Gear List]
+
+====Set bonuses====
+'''Tier 4 (Cyclone):''' You want two pieces. The bonus boosts your mana spring totem by 7.5 mp5, which benefits you and your entire party. Four pieces reduces the cooldown on your Nature's Swiftness by 24 seconds. The faster cooldown does not outweigh the increased mana and healing you can get from non-set items.
+'''
+Tier 5 (Cataclysm):''' You don't need any pieces. None of the set bonuses benefit Chain Heal, which is the shaman's primary heal in raids. The two-piece bonus reduces the cost of your Lesser Healing Wave by 5%. The four-piece bonus is slightly more useful. Whenever you get a crit from any healing spell, you can reduce the cast time of your next Healing Wave by 0.5 second for the next 10 seconds. However, as with the four-piece Tier 4 bonus, this ability does not outweigh the increased mana and healing you can get from non-set items. 
+
+'''Tier 6 (Skyshatter):''' You want four pieces. The set bonuses are fantastic. It doesn't matter what stats another piece of gear has, you are always better off with the set bonuses.
+
+The two-piece bonus is worth 64 mp5 assuming you cast 15 chain heals per minute. If you cast 20 chain heals (3 seconds per CH), it's worth 85.5 mp5.
+
+The four-piece bonus is worth 82 healing (from the base spell) plus 0.06675 per point of +heal.
+according to [http://dashboard.filefront.com/Binkenstein/ Shamstats] by Binkenstein. If you had 2000 +healing, your chain heal on three targets would gain an extra 216 healing.
+
+Best pieces to wear: Bracers, Belt, Boots and Shoulders/Chest. The first pieces of T6 that most people get are the gloves (Azgalor) and the helm (Archimonde).
+
+<h4>Using three pieces of Tier 2?</h4>
+One surprising way to boost your healing is to wear three pieces of Tier 2. Yes, the stuff that drops from Onyxia and in Black Wing Lair. The increased healing has been confirmed both by theoretical models and by actual experimentation in raids. Wearing three pieces of Tier 2 (3T2) can boost your effective chain healing by 10% to 15%. The more +healing you have, the better the set bonus becomes because it is percentage based.
+
+The bonus is “increases the amount healed by Chain Heal to targets beyond the first by 30%.” What makes this such an incredible bonus is the fact that the third jump gets the set bonus that is applied to the second jump.
+
+Let’s assume the first jump of chain heals for 1,000. With the set bonus, the second jump heals for 650 and the third for 422.5. Without the set bonus, the second jump heals for 500 and the third for 250.
+
+While you have less +healing, your chain heal becomes more powerful due to the set bonus. If we assume no overhealing, your chain heal does roughly 10% more healing if it hits three targets on average. However, most overhealing is done on the first target (which other healers are targeting). Because your second and third jumps heal for a larger amount (and jump instantly to those who have taken damage), you actually become a more effective healer – boosting the effect of the set bonus to roughly 15%.
+
+You should wear three pieces of Tier 2 if the following statements are true:
+*Chain heal will be 90% or more of your healing for the fight.
+*Your chain heal will hit all 3 targets. 
+*You are in a 25-man raid
+*You do not lose any Tier 6 bonuses by equipping Tier 2. Tier 4 and Tier 5 set bonuses do not matter.
+*You do not yet have your Tier 6 from Sunwell. Generally, the loss of other stats at this point outweighs the benefit.
+
+The best pieces of T2 to use are:
+<item>Bracers of Ten Storms</item>
+<item>Greaves of Ten Storms</item>
+<item>Belt of Ten Storms</item>
+
+What you lose (varies depending on current gear and which pieces of T2 you equip):
+*Healing -200 to -350
+*Crit -1% to -2%
+*Intellect -15 to -35
+*Stamina -25 to -80
+*Mp5 -20 to -50
+
+The loss of crit and Intellect is negligible. Depending on how much stamina or mp5 you lose, you may need to use adjust other gear or the make-up of your group or use more potions. However, you can wear 3T2 even on fights that require high stamina such as Naj’entus. 
+
+Here’s the math (credit goes to Thud00 and Daidalos):
+
+In a regular chain heal you have X + (0.50*X) + (0.50*0.50*X) where X is the base healing on the first target or       
+                                              X + 0.50X + 0.25X = 1.75X
+
+With 3T2 you have X + (0.65*X) + (0.65*0.65*X) where 
+                            or X + 0.65X + 0.4225X= 2.0725X
+
+So including talents and plus healing, 
+
+<div style="margin: 5px 20px 20px;">
+	<div class="smallfont" style="margin-bottom: 2px;">Quote:</div>
+	<table border="0" cellpadding="3" cellspacing="0" width="100%">
+	<tr>
+		<td class="alt2">
+			<hr>
+			
+				Without 3T2:
+(884 + 87 + 2000 * (2.5/3.5)) * 1.1 * 1.2 *1.05 * 1.75 = 5820
+
+(base + maiden trinket + heal * cast time) * purification * improved ch * t6 bonus * 2 jumps
+
+With 3T2 (assuming you lose +250 healing)
+
+(884 + 87 + 1750 * (2.5/3.5)) * 1.1 * 1.2 * 1.05 * 2.0725 = 6380
+			
+			<hr>
+		</td>
+	</tr>
+	</table>
+</div>Clearly you get more heal wearing 3T2, 9.6% more.
+
+Thud00 wrote a custom mod to measure overhealing on a per jump basis. He found overhealing on the initial jump was about 50%, while overhealing on subsequent jumps was about 20%. This makes sense given that multiple healers will often target the same person who has taken damage. The beauty of chain heal is that it instantly jumps to two other people. They often take damage while you were casting so a chain heal or prayer of mending is the first thing to land – resulting in less overhealing.
+
+Taking overhealing into account the 1.75 becomes 1*0.5 + 0.75*0.8 = 1.1
+and the 2.0725 figure becomes 1*0.5 + 1.0725*0.8 = 1.358
+
+This takes the effective healing to:
+
+<pre>Without 3T2
+(884 + 87 + 2000 * (2.5/3.5)) * 1.1 * 1.2 *1.05 * 1.1 = 3658
+
+With 3T2
+(884 + 87 + 1750 * (2.5/3.5)) * 1.1 * 1.2 * 1.05 * 2.0725 = 4180</pre>So the real effect of 3TS is around 14.3% more healing. In this example, you would need 2479 +heal to get the same effective heal without the 3T2 bonus so it’s worth about 729 +heal.
+
+====Best in Slot====
+*Head: <item>Shroud of Chieftain Ner'zhul</item>
+*Neck 1) <item>Amulet of Flowing Life</item> (requires jewelcrafting)
+*Neck 2) <item>Brooch of Nature's Mercy</item>
+*++Shoulders: <item>Skyshatter Shoulderpads</item>
+*Back 1) <item>Shroud of the Highborne</item>
+*Back 2) <item>Shroud of Redeemed Souls</item>
+*++Chest 1) <item>Sun-Drenched Scale Chestguard</item> (requires Leatherworking)
+*Chest 2) <item>Sunglow Vest</item>
+*Bracers: <item>Skyshatter Bracers</item>
+*Gloves 1) <item>Sun-Drenched Scale Gloves</item>
+*Gloves 2) <item>Botanist's Gloves of Growth</item> with 2 spinels
+*Gloves 3) <item>Gauntlets of the Ancient Frostwolf</item>, which is only available by transmuting <item>Gauntlets of the Ancient Shadowmoon</item>
+*Belt: <item>Skyshatter Belt</item>
+*Legs 1) <item>Kilt of Spiritual Reconstruction</item>, which is only available by transmuting <item>Chain Links of the Tumultuous Storm</item>
+*Legs 2) <item>Leggings of Eternity</item>
+*Feet: <item>Skyshatter Boots</item>
+*Ring 1: 1) <item>Ring of Flowing Life</item>
+*Ring 1: 2) <item>Blessed Band of Karabor</item>
+*Ring 2: <item>Blessed Band of Karabor</item>
+*Weapon: <item>Crystal Spire of Karabor</item>
+*Off-hand: 1) <item>Book of Highborne Hymns</item>
+*Off-hand: 2) Aegis of Angelic Fortune
+*Trinket 1: <item>Memento of Tyrande</item>
+*Trinket 2: 1) <item>Redeemer's Alchemist Stone</item> (requires Alchemy)
+*Trinket 2: 2) <item>Tome of Diabolic Remedy</item>
+*Relic: <item>Totem of Healing Rains</item>
+
+++ Instead of wearing the Tier 6 shoulders, you can use <item>Skyshatter Chestguard</item> with <item>Shawl of Wonderment</item>
+
+Using best in slot items:
+Tauren: Intellect: 494
+            Stamina: 583
+            Heal: 2,750 (including Nature's Blessing and 14/15 +22 heal gems)
+            Crit: 36 
+            Haste: 326 (20.67%)
+            mp5: 188 (alchemist stone valued at +20 mp5). With water shield and mana spring, the mp5 would be 301.
+
+NOTE: We are assuming that you can't move or cast during the 8 seconds of channeling with the Glimmering Naaru Sliver. If this assumption is incorrect, it would rival the Redeemer's Alchemist Stone and be far better than the Tome of Diabolic Remedy. 
+
+====Relics====
+Use the Totem of Healing Rains if mana is not an issue.
+
+They come to two varieties: Ones that reduce the mana cost of your healing spells and one that increase your +healing for a specific type of healing spell. There is also <item>Totem of the Thunderhead</item>. However, your water shield will not continue to get a boost if you switch to another relic after casting it.
+
+The amount added to healing from relics is applied the same way +healing is applied to your spells. Relics are applied before set bonuses.
+
+[u]Chain Heal[/u]
+<item>Totem of Healing Rains</item>
+<item>Totem of Living Water</item>
+
+Each Chain Heal you cast per minute with Totem of Living Water equipped equals 1.67 mp5 (20/12=1.6667) so if you do:
+
+10 casts per minute you get 16.67 mp5 
+15 casts per minute 25 mp5
+20 casts per minute 33.33 mp5 (pretty much the upper limit without haste gear)
+
+[u]Healing Wave[/u]
+<item>Totem of Spontaneous Regrowth</item>
+<item>Totem of the Maelstrom</item>  
+
+Each Healing Wave you cast per minute with Totem of the Maelstrom equipped equals 2 mp5 (24/12=2) so if you do:
+
+10 casts per minute you get 20 mp5 
+15 casts per minute 30 mp5
+20 casts per minute 40 mp5 (pretty much the upper limit without haste gear)
+
+[u]LHW[/u]
+<item>Totem of the Plains</item>
+<item>Totem of Life</item> From AQ40.
+<item>Totem of Flowing Water</item> From Naxx. Rank 1 returns 4 mana.
+
+====Gems and Meta Gems====
+Gems can be a major investment. It's ok to use green-quality gems as you level up and gear up. However, never leave a socket empty. Always put some gem in it. 
+
+Resto shaman should primarily use + healing gems in sockets, often ignoring socket bonuses. Gems with spell haste can be another viable option. Blue gems should be used sparingly.
+
+RED: <item>Teardrop Living Ruby</item> or <item>Teardrop Crimson Spinel</item>  
+
+BLUE:<item>Royal Nightseye</item> or <item>Royal Shadowsong Amethyst</item>  
+
+YELLOW:<item>Quick Dawnstone</item> or <item>Quick Lionseye</item>. Before Patch 2.4, your best option was <item>Luminous Noble Topaz</item> or <item>Luminous Pyrestone</item>. However, the spell haste gems can be just as good as +healing gems.
+
+'''Meta Socket '''
+
+Unlike DPS classes, there is no great meta gem for healers. Secondary colors (purple, orange, green) count for BOTH primary colors. 
+
+<item>Insightful Earthstorm Diamond</item> 
+
+It procs off any spell cast, including totems and water shield. You then gain 300 mana from “Mana Restore.” The gem has a 5% chance to proc (the tooltips that say 2% chance are incorrect). There is no cooldown. On rare occasions, it has procced off itself.
+
+In real raid situations using mainly Chain Heal, it returns about 20 mp5 (which would be roughly a 4% proc rate). Shaman may get more procs off the meta gem than others healers due to the fact that we are constantly dropping totems and casting water shield -- all of which can proc the gem.
+
+Assuming it takes 3.0 seconds to cast Chain Heal given reaction time and lag, here are the mp5 values for various proc rates:
+
+2% = (300 mana / (50 casts * 3.0secPerCast)) * 5 seconds = 10 mp5
+4% = (300 mana / (25 casts * 3.0secPerCast)) * 5 seconds = 20 mp5
+5% = (300 mana / (20 casts * 3.0secPerCast)) * 5 seconds = 25 mp5
+
+The meta requires that you have 2 red gems, 2 yellow gems and 2 blue gems. The two red gems should not be a problem for any shaman. You can meet the rest of the requirement with <item>Quick Lionseye</item> x 2 + <item>Royal Shadowsong Amethyst</item> x 2. Using these four gems actually provides more benefit than<item>Forceful Talasite</item> x 2 -- taking into account socket bonuses and using Tier 6 HEP values. While using all spinels provides the highest HEP values, the large amount of haste on end-game gear may make the mana returned from Insightful Earthstorm Diamond attractive.
+
+<item>Teardrop Crimson Spinel</item> x 4 + <item>Bracing Earthstorm Diamond</item> = 88 healing + 26 healing = 114 HEP
+
+<item>Quick Lionseye</item> x 2 + <item>Royal Shadowsong Amethyst</item> x 2+ <item>Insightful Earthstorm Diamond</item> =  20 spell haste + 22 healing + 4 mp5 + 17.5 mp5 + 4 mp5 (socket bonuses) + 7 healing (shoulder socket bonus) + 12 Intellect
+= 40 + 22 + 5.2 +22.75 + 5.2 +7 + 9= 111.15 HEP
+
+<item>Forceful Seaspray Emerald</item> x 2 + <item>Teardrop Crimson Spinel</item>x 2 + <item>Insightful Earthstorm Diamond</item>=+10 Haste and +4 mp5 + 17.5 mp5 +44 healing + 12 Intellect
+= 20 + 5.2 + 22.75 +44 + 9 = 100.95
+
+<item>Bracing Earthstorm Diamond</item>
+This has the easiest gem requirement to meet -- more red gems than blue gems. If you can't easily meet the requirements of the Insightful Earthstorm Diamond, use this meta gem. 
+
+In Patch 2.3.2, the requirement of having more yellow gems than blue gems was eliminated.
+
+<item>Mystical Skyfire Diamond</item>
+
+The gem has a 15% chance to proc and it will proc off anything, including totems and water shield. When it procs you gain 320 spell haste rating for 6 seconds. There is a 45-second cooldown since Patch 2.3. In real raid situations it will proc about once per minute.
+
+If you're lucky, you get off one super fast heal. However, the proc can also be wasted if it occurs at the end of the fight or when no one needs healing. The proc from Insightful Earthstorm (extra mana) will not go to waste as long as you are below 100% mana.
+
+This meta gem has a second drawback -- it requires more blue gems than yellow. Currently, the best gems for resto shaman are red and yellow. Blue gives us the least benefit. The gem might have some benefit if put in a secondary (or duplicate helm) and used as part of a spell haste set. However, yellow gems give spell haste so the meta might work against gems in haste gear.
+
+====Trinkets====
+How to calculate the value of on-use trinkets:
+
+Take the amount of additional healing and multiple by the duration of the buff. Then divide by the cooldown. Let’s use <item>Essence of the Martyr</item> as an example
+
+297*20/120 = 49.5 healing
+
+To ensure you use on-use trinkets every time the cooldown is available. you can create a macro to use them each time you cast Earth Shield.
+
+[u]Best of the Best[/u]
+<item>Redeemer's Alchemist Stone</item>
+A super mana pot, on average, restores 2400 mana. The Alchemist Stone boosts the mana returned by 40% or 960 mana. That's an extra 40 mp5 if you're chain chugging pots. If you drink 1-2 super mana pots during a 10-minute fight, it would restore, 8 mp5 to 16 mp5. However, the advantage is you get extra mana when you need it the most.
+
+<item>Memento of Tyrande</item>   (Illidan)
+    The theoretical proc equals 25 mp5. In actual use, you get about 20 mp5 
+    Cooldown: 45 seconds 
+
+[u]Pretty Darn Good[/u]
+ 
+<item>Tome of Diabolic Remedy</item>   (ZA-Hex Lord Malacrass) 
+
+[Glimmering Naaru Sliver] (Sunwell) 
+Use: Gain 250 mana each sec for 8 sec. Channeled 
+Equip: Increases healing by 119 
+Cooldown: 5 min 
+Note: Restores a total of 2000 mana or 33.3 mp5. Time spent channeling is affected by haste.
+
+[u]I Need More +Healing[/u]
+<i>These will give your Earth Shield or Healing Stream a big boost</i>
+
+<item>Essence of the Martyr</item>  (41 Heroic Badges)
+<item>Xi'ri's Gift</item>
+<item>Warp-Scarab Brooch</item>(Heroic Mana Tombs-Nexis-Prince Shaffar)
+
+[u]I Need More Mana![/u]
+
+<item>Alchemist's Stone</item>   
+A super mana pot, on average, restores 2400 mana. The Alchemist Stone boosts the mana returned by 40% or 960 mana. That's an extra 40 mp5 if you're chain chugging pots. If you drink 1-2 super mana pots during a 10-minute fight, it would restore, 8 mp5 to 16 mp5. However, the advantage is you get extra mana when you need it the most.
+ 
+ <item>Fathom-Brooch of the Tidewalker</item>   (SSC - Fathom-Lord Karathress)
+   If it procs every 45 seconds, you get 37 mp5. If it procs once per minute (which is more realistic), you get 28 mp5
+   Cooldown: 45 seconds
+
+<item>Figurine - Seaspray Albatross</item> (Jewelcrafting) Total of 43 mp5 if used every 3 minutes
+<item>Figurine - Talasite Owl</item> (Jewelcrafting) Total of 29 mp5 if used every 5 minutes
+
+<item>Eye of Gruul</item>  
+   Procs off each jump of chain heal, boosting the proc chance to 6%. If it procs once per minute, it equals 37.5 mp5. It will also proc off Earth Shield charges if you cast it on yourself. You need to make sure that you are in a fight where you are spamming chain heal non-stop. Otherwise, you can easily see the proc rate fall to once every two minutes (18 mp5)
+
+[u]Entry-level Trinkets[/u]
+<i>All these trinkets are available by completing a quest or can be bought once you have enough reputation with a faction.</i>
+
+<item>Lower City Prayerbook</item>
+The on-use equals 8.8 mp5
+You can have two of them but they share the cooldown.
+
+<item>Xi'ri's Gift</item>
+
+<item>Oshu'gun Relic</item> (Gava'xi - Nagrand Quest)
+
+<item>Heavenly Inspiration</item> (Success! - Netherstorm Quest) 
+
+<item>Ancient Draenei Arcane Relic</item> (Quest) 
+    Cooldown: 2 minutes (The 1.5 min cooldown on Thottbot and Wowhead is incorrect)
+
+[u]Under the Right Circumstances[/u]
+
+<item>Vial of the Sunwell</item> 
+How the trinket works:
+1) The max range on the heal is 40 yards.
+2) Using the trinket does not trigger the GCD so it's truly a free, extra, instant heal.
+3) The stacking Holy Energy buff never fades. It doesn't have a timer. You keep the stacks indefinitely until you use them, even if you change gear, log out or switch zones. The only time you lose the charges is when you zone into the arena. You can spam Healing Wave Rank 1 to quickly charge it to full.
+4) Can use while silenced. 
+5) Casting Earth Shield will not stack the Holy Energy buff.
+6) The healing done is increased by Fel Armor and the rogue talent. Mortal Strike, wound poison, etc. decrease healing. 
+7) It can crit, with a maximum of 3,000 healing done.
+8) The healing done by the trinket will activiate the healing proc from Illidan's <item>Crystal Spire of Karabor</item>
+
+<item>Fel Reaver's Piston</item>   (The Eye - Void Reaver)
+NOTE: 15% chance to proc. Does not scale with plus healing. Each jump of chain heal is another chain to proc. It will also proc off Earth Shield charges if you cast it on yourself.
+Cooldown: Can proc as soon as the first HoT finishes
+
+<item>Pendant of the Violet Eye</item> (Kara-Aran) <a href="http://elitistjerks.com/f15/t9788-pendant_violet_eye_-_how_put_good_use/" target="_blank">http://elitistjerks.com/f15/t9788-pe..._put_good_use/</a>
+
+<item>Scarab of the Infinite Cycle</item> (Black Morass) Equals about 32 haste if it procs once per minute
+Cooldown: 45 seconds
+
+<item>Scarab Brooch</item> (AQ40)
+
+<item>Battlemaster's Perseverance</item>
+
+<item>Ribbon of Sacrifice</item> (Kara-Opera)
+This can be a nice trinket to use in the later growths on Gruul when all the healers are on the tank or hateful bolt soaker.
+
+[u]Trinkets Shaman Should Never Use[/u]
+
+<item>Bangle of Endless Blessings</item>
+ 
+<item>Ashtongue Talisman of Vision</item>
+The proc is based on casting LHW. The trinket would truly shine if it were based on casting Chain Heal instead.
+
+<item>Darkmoon Card: Blue Dragon</item>
+
+====Enchanting Your Gear====
+Enchanting your gear can quickly drain your bank account. However, it is well worth the expense if you will not upgrade your gear for a while. There are also a few "cheap" enchants that are worth putting on your gear even if you won't have it long: +6 mp5 to chest, Vitality for boots and the honored shoulder enchants. The best enchant to skip all together if money is an issue is Subtlety to cloak.
+
+<h4>Weapon Enchants</h4>
+<item>Enchant Weapon - Major Healing</item>: +81 healing 
+<item>Formula: Enchant Weapon - Spellsurge</item>:  3% chance on spellcast to restore 100 mana to all party members over 10 seconds. In actual raids, this works out to about 6-8 mp5 per person. 
+
+Put +81 healing on your main weapon. If you have a second weapon that is close in quality to your main weapon, you can enchant the secondary weapon with Spellsurge. You can then use a mod such as Caster Weapon Swapper to switch between them while Spellsurge is on cooldown. 
+
+<h4>Enchanting the Rest of Your Gear</h4>
+'''Shield:''' Intellect (+12 int) or Major Stamina (+18 stam)
+
+'''Head:''' <item>Glyph of Renewal</item>  (Thrallmar/Honor Hold Revered) 
+
+'''Shoulders:''' 
+Aldor: <item>Greater Inscription of Faith</item>
+Scryer: <item>Greater Inscription of the Oracle</item>
+
+If you are at least honored, you can get: 
+Aldor: <item>Inscription of Faith</item>
+Scryer: <item>Inscription of the Oracle</item>
+
+'''Back: ''' Subtlety (reduces threat by 2%) 
+
+'''Chest:''' Restore Mana Prime (+6 mp5)
+
+'''Wrist:''' Superior Healing (+30 healing) 
+NOTE: Shaman who are just starting out may find Mana Prime (6 mp5) more helpful
+
+'''Gloves:''' Major Healing (+35 healing)
+
+'''Legs:''' <item>Silver Spellthread</item> or <item>Golden Spellthread</item>  
+
+'''Feet:''' Boar's Speed (Slight speed increase, +9 Stamina) Boosts speed by 8%. The haste effect does not stack with anything else such as the meta gems or <item>Explorer's Walking Stick</item>
+NOTE: Shaman just starting out my prefer Vitality ( 4 mp5 &amp; 4 health/5). Also Vitality is a much cheaper and easier to find so it may be the best enchant if you expect to quickly upgrade your boots.
+
+'''Rings:''' +20 healing. Ring enchants are only available to enchanters.
+
+====Spell Haste====
+A large amount of healing gear with spell haste is available in Hyjal, Black Temple, ZA and Sunwell. Generally, shamans do not need to worry about collecting gear with Spell Haste until they reach Tier 6 content (and notice you really can't get it before then anyway).
+
+Wearing gear with spell haste can be beneficial any time you're not going OOM in a fight. By wearing gear with spell haste, we can cast spells faster, boosting our overall healing done for a fight – and potentially have heals landing faster to prevent deaths.
+
+Starting in Patch 2.4, spell haste lowers global cooldown on spells, reducing the GCD to as little as 1 second. 
+
+Many shaman find that when put in a group with a shadow priest, they cannot use their mana fast enough. Often, our mana bar will never drop below 50% due to the shadow priest, water shield, mana spring and other buffs. Many shaman also wear haste gear on trash since they can drink after each pull.
+
+<pre>1% Spell Haste = 15.76 Haste Rating</pre>1% haste means you will cast 1 additional spell in the time it would normally take to cast 100 spells. You do NOT cast 1% faster. 
+
+Spell Haste is calculated after talents. So if Healing Wave is 3.0 seconds normally and talents reduce it to 2.5 seconds, then 10% haste (157 haste rating) would reduce the cast time to 2.275 seconds. 
+
+Spell Haste can reduce the global cooldown but it cannot reduce it below 1.0 seconds.
+
+Here are some formulas to calculate Spell Haste and its effects
+
+<img src="http://elitistjerks.com/cgi-bin/mathtex.cgi?%5Ctext%7B%20New%20Cast%20Time%20%7D%20=%20%5Cfrac%7BOldCastTime%7D%7B1%20+%20%28Haste%20Rating/1576%29%7D" alt="\text{ New Cast Time } = \frac{OldCastTime}{1 + (Haste Rating/1576)}">
+
+<img src="http://elitistjerks.com/cgi-bin/mathtex.cgi?%5Ctext%7B%20Haste%20Rating%20%7D%20=%201576%20%5Ctimes%20%28%5Cfrac%7BOldCastTime%7D%7BNew%20Cast%20Time%7D%20-%201%29" alt="\text{ Haste Rating } = 1576 \times (\frac{OldCastTime}{New Cast Time} - 1)">
+
+[u]No amount of haste including Bloodlust/Heroism will lower the global cooldown below 1 second.[/u]
+This can be proven using the following UI hook and spamming an instant spell with no cooldown inside and outside of Bloodlust: 
+
+<div style="margin: 5px 20px 20px;">
+	<div class="smallfont" style="margin-bottom: 2px;">Quote:</div>
+	<table border="0" cellpadding="3" cellspacing="0" width="100%">
+	<tr>
+		<td class="alt2">
+			<hr>
+			
+				/run hooksecurefunc("CooldownFrame_SetTimer", function(_, start, duration, enable) if start &gt; 0 and enable &gt; 0 then DEFAULT_CHAT_FRAME:AddMessage(duration) end end)
+			
+			<hr>
+		</td>
+	</tr>
+	</table>
+</div>'''Haste Rating "Cap"'''
+
+With the gear currently in the game, you don't have to worry about your cast times bumping up against the global cooldown (unless you are using Bloodlust/Heroism). 
+
+To lower the cast time of Chain Heal and Healing Wave to 1 second, you would need 2,364 haste rating (or 1,455 with Bloodlust/Heroism). To lower the cast time of Lesser Healing Wave to 1 second, you would need 788 haste rating (243 haste with Bloodlust/Heroism).
+
+You can get 372 Haste Rating from the gear currently in the game (not including the off-hand or the DPS boots or trinket procs). Realistically, you can reduce your cast times to:
+
+Lesser Healing Wave 1.21s
+Healing Wave and Chain Heal 2.02s
+
+With Heroism or Bloodlust
+Lesser Healing Wave 0.93s
+Healing Wave and Chain Heal 1.56s
+
+====Spell Hit for Interrupts====
+Normally, resto shamans don’t worry about <a href="http://elitistjerks.com/f47/t15427-spell_hit/" target="_blank">spell hit</a>. However, there are a few fights in which we may be asked to not only heal but interrupt spells cast by a boss. In these situations, it can be helpful to boost your +hit to cut down on the number of resists you will get. Get a pair of gloves with spell hit, gem them for spell hit and then enchant them for spell hit. You maximize your hit but at the sacrifice of only one piece of normal healing gear.
+
+You may be asked to Earth Shock Hellfire Channelers (72) in Magtheridon, Shade of Aran (73), Kael’thas (73), or the priest (72) in the Karathress fight.
+
+[u]Gear[/u]
+<item>Manaspark Gloves</item> are easy to farm from the first boss in normal Underbog (Hungarfen)
+Put a <item>Great Dawnstone</item> in each socket and enchant with Spell Strike (15 hit rating) and you have a total of 46 spell hit (3.65%). This is quite a bit of spell hit on one piece of gear.
+
+Another option is <item>Handwraps of Flowing Thought</item> from Attuneman in Kara, which will give 45 spell hit (3.57%) but have better stats.
+
+<item>Anger-Spark Gloves</item> will give you 51 spell hit (4.04%) but are expensive if you don’t regularly kill Doomwalker.
+
+The absolutely best option is to get the Tier 6 Elemental gloves <item>Skyshatter Gauntlets</item> and socket them with a <item>Great Lionseye</item>. You will have 44 spell hit rating (3.49%) plus a decent amount of +healing, stamina, intellect and spell crit.
+
+====Consumables====
+Use either <item>Flask of Mighty Restoration</item> or a combination of <item>Elixir of Healing Power</item> and <item>Elixir of Major Mageblood</item>. The two elixirs are more powerful, giving you 16 mp5 and +50 healing. However, the flask can be more economical if you die a lot.
+
+On your weapon apply 1) <item>Blessed Weapon Coating</item>, which returns roughly 16 mp5. It is slightly better than <item>Superior Mana Oil</item>
+2) <item>Brilliant Mana Oil</item> remains the best combination of mp5 and +healing.
+
+For food use <item>Golden Fish Sticks</item> or <item>Blackened Sporefish</item>
+
+===Macros===
+'''Nature's Swiftness '''
+There is no global cooldown when you activate a trinket so it won’t delay your heal.
+13=upper slot trinket
+14=lower slot trinket
+
+<pre>#showtooltip Nature's Swiftness
+/stopcasting
+/use 13 
+/use 14 
+/cast Nature's Swiftness 
+/cast Healing Wave(Rank 12)</pre>If you use Clique: change the last line to /cast [target=mouseover] Healing Wave(Rank 12)
+
+'''Earth shock'''
+This will will stop whatever you are doing and Earth Shock your focus, no matter what you currently have targeted. If you don't have a focus, it will shock your current target. Very helpful in fights where there are multiple mobs the raid is DPSing. Also, if you focus is dead, it will clear your focus.
+<pre>/stopcasting
+/clearfocus [target=focus,dead]
+/cast [target=focus,harm,exists] Earth Shock(Rank 1)
+/cast Earth Shock(Rank 1)</pre>It shocks your target if it’s hostile. If you’re targeting a friendly target (like the main tank), it will shock their target. This macro is helpful in PVP. The first macro can be more helpful for raiding when you only care about interrupting a single target.
+
+<pre>/stopcasting 
+/cast [harm] Earth Shock; [target=targettarget, harm] Earth Shock(Rank 1)</pre>'''Purge'''
+If the person you are targeting is an enemy, it will cast purge. If it's friendly (i.e a person you're healing), it will purge their target.
+
+<pre>/cast [harm, nodead] [target=targettarget,harm,nodead] Purge</pre>'''Cure Poison/Disease'''
+There's no way to cast both Cure Poison and Cure Disease with just one key. This is as close as you can get.
+
+<pre>#showtooltip [nomodifier]Cure poison 
+#showtooltip [modifier:shift]Cure Disease 
+/cast [help,nomodifier] Cure Poison; 
+/cast [help,modifier:shift] Cure Disease; 
+/cast [target=player,nomodifier] Cure Poison; 
+/cast [target=player,modifier:shift] Cure Disease;</pre>===Notes for Raid Leaders===
+[u]Who should I have the shaman heal?[/u]
+Shaman are best at healing multiple targets that are standing near each. Assign them to heal melee or simply keep the entire raid topped off. In a 25-man raid, you should see their chain heal constantly jumping from player to player. 
+
+Shaman can heal a single target, such as the main tank. However, this role is better filled by a priest or paladin. You will want to make sure the shaman puts an Earth Shield on the main tank, another player who will take damage or someone who needs protection against spell interruption.
+
+[u]Should I let shaman roll on cloth or leather gear?[/u]
+Yes. Sometimes a cloth or leather item is better than the available mail items for a slot. This is particularly true if there is no spirit on the cloth or leather gear. If the cloth or leather gear has spirit, it’s probably of more use to a priest or druid. Staves and off-hands are also more beneficial to priests and druids. 
+
+[u]In which group should I put a resto shaman?[/u]
+
+If there is no enhancement shaman in the raid, put a resto shaman in the melee group with the rouges and warriors for the Windfury Totem. The increased DPS a resto shaman can provide a melee group through Windfury and Bloodlust/Heroism outweighs buffs they can give any other group in the raid. If you have only one shaman in a raid, they should be in the melee group.
+
+If the melee group has a shaman, place the remaining shaman in groups with DPS casters and/or healers to boost spell damage with Wraith of Air and boost mana regeneration with Mana Spring and Mana Tide totems. In general, warlocks do not need a shaman because their main source of mana is life tapping.
+
+*Main tank group: In most fights, the main tank does not need a shaman in their group. However, there are a few fights in which the boss does high burst damage such as the Prince in Karazhan or Gurtogg Bloodboil in Black Temple. Even if a tank has 490 defence to avoid critical hits, the boss can still land crushing blows. Critical hits are 200% of normal damage and Crushing blows are 150% of normal damage. The shaman’s Grace of Air totem will increase the ability of a warrior to dodge attacks by 3% and a druid to dodge attacks by 5.24%
+
+===Theorycraft===
+====Downranking====
+Downranking is using a lower level of a spell to reduce overhealing and improve mana efficiency. To calculate the downrank penalty:
+
+     Level at which the next rank is learned +5/70 or
+     Level before next spell is learned +6/70
+
+For spells learned before Level 20 there is an additional penalty:
+Penalty = (20-Level Spell is Learned) * 0.0375
+
+====How to Calculate +Healing to Spells====
+<a href="http://elitistjerks.com/f47/t19038-spell_coefficients/" target="_blank">http://elitistjerks.com/f47/t19038-spell_coefficients/</a>
+
+===Useful Links and Addons===
+[http://hosted.filefront.com/Binkenstein Binkenstein's ShamStats]
+This is the best tool to evaluate which gear is best to use. Binkenstein is an elemental shaman so all the defaults on the spreadsheet are for DPS. Simply change the talents and other settings to healing.
+
+[http://spreadsheets.google.com/ccc?key=pmFcK_ho0IWv3sPmcYnEJUg Healing Calcs by Daidalos ]
+Simple, elegant and works with Open Office.
+
+[http://www.divshare.com/download/4134025-c5c RestoShammySpells by Boko]
+Calculates Avg. Healed, HPS, HPM, MP5 spent for each heal. In addition the real HPS depending on current MP5/Manapool/Time of fight calculated for each spell.
+
+Currently, Blizzard provides no in-game way to manage your totems. And putting 20+ of them on your hot bar is a bad idea.
+
+*Call of Elements: [http://christophe.calmejane.free.fr/wow/phpBB2/ Kiki WoW Addons :: Index]
+Manages totems but not elemental shields or weapon buffs
+*TotemTimers
+*Gotwood
+*Yet Another Totem Addon (YATA): Updated through WowAce
+
+Some other helpful mods that are available through WowAce or Curse.com
+*Grid (Recommended): Raid UI that can show the health and mana of all players. It also shows incoming heals from other healers using Grid, including HoTs. It also displays debuffs on players that can help you react more quickly to damage in the raid.
+*Clique (Recommended): Mod to cast heals by mousing over a raid frame and clicking. Use it with Grid or another raid UI.
+*Shaman Friend: Audible warnings when an elemental shield or weapon buff expires. Can report a successful purge, interrupt or grounding to party or raid channel.
+*ProcWatch: Tracks how often a trinket procs
+*Healbot: Functions much like Grid + Clique. However, Grid is recommended for higher-end raiding.
+*Earth Shield Tracker (ES Tracker). Gives a small tracker that shows the remaining number of charges and the time left.

@@ -4,20 +4,16 @@
 
 
 
-== Death Knight ==
-==== Death Knight Core Raiding Guidlines====
+== Warlock ==
+====Warlock Core Raiding Guidlines====
 
 *[[Core Raiding General Requirements]]
 
-
-====Death Knight Casual Raiding Guidelines====
+====Warlock Casual Raiding Guidelines====
 
 *[[Casual Raiding General Requirements]]
 
-
-====Raiding Basics for Death Knights====
-*[[Death Knight Raiding]]
-*[[Common Frost Death Knight Specs]]
-*[[Common Blood Death Knight Specs]]
-*[[Common Unholy Death Knight Specs]]
-*[[Addons for Death Knights]]
+====Raiding Basics for Warlocks====
+*[[Warlock Raiding]]
+*[[Common Warlock Raiding Specs]]
+*[[Addons for Warlocks]]

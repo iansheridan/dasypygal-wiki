@@ -1,58 +1,18 @@
 {| align="right"
   | __TOC__
   |}
+==Raid Sign-up==
+All members who wish to raid must use the [http://dasypygal.dyndns.org/raid/ raid sign-up calendar]. Using the calendar lets us see who is available and what the raid composition will look like at invite time, it allows the raid leaders to know what spots we may be lacking and where we may have an excess. As always please indicate in your sign-up note if you will be late.
 
-==Battle==
+==How will invite priority be handled for raids?==
+Invite priority for all raids (10-man and 25-man) will be as follows:
 
-==Guardian==
+#GM/Council Officers (Only those classified as Core raiders)
+#Junior Officers
+#Core Raiders
+#Casual Raiders (including council officers classified as Casual)
+#Probies
+#Non-Raiders
+#Alts
 
-==Flask==
-<item>Flask of relentless assault</item>
-
-==Weapon==
-
-==Food==
-
-
-== Universal ==
-
-'''Super Healing Potion''' [http://www.wowhead.com/?item=22829 link]
-
-Use: Restores 1500 to 2500 health. (Stacks to 5)
-
-''Reagents: Netherbloom (2), Felweed, Imbued Vial''
-
-
-'''Healing Potion Injector'''  [http://www.wowhead.com/?item=33092 link]
-
-Use: Restores 1500 to 2500 health. (20 Charges)
-
-''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Healing Potion (20)''
-
-
-'''Super Mana Potion''' [http://www.wowhead.com/?item=22832 link]
-
-Use: Restores 1800 to 3000 mana. (Stacks to 5)
-
-''Reagents: Dreaming Glory (2), Felweed, Imbued Vial''
-
-
-'''Mana Potion Injector''' [http://www.wowhead.com/?item=23823 link]
-
-Use: Restores 1800 to 3000 mana.  (20 Charges)
-
-''Reagents: Fel Iron Casing, Handful of Fel Iron Bolts, Knothide Leather (2), Super Mana Potion (20)''
-
-
-'''Super Rejuvenation Potion''' [http://www.wowhead.com/?item=22850 link]
-
-Use: Restores 1650 to 2750 mana and health. (Stacks to 5)
-
-''Reagents: Mana Thistle (2), Dreaming Glory, Netherbloom, Imbued Vial''
-
-
-'''Heavy Netherweave Bandage''' [http://www.wowhead.com/?item=21991 link]
-
-Use: Heals 3400 damage over 8 sec.
-
-''Reagents: Netherweave Cloth (2)''
+In all cases you must be logged on with your main at the time of invites. If you are logged as an alt, you will be skipped over. And remember, class balance trumps all invite priority.

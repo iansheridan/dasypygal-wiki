@@ -1,7 +1,7 @@
 {| align="right"
   | __TOC__
   |}
-==Discipline==
+==Arcane==
 Spec 1 (place holder text)
 
 Spec 2
@@ -9,10 +9,11 @@ Spec 2
 Spec 3
 
 ===Glyphs===
-Placeholder
+placeholder 
 
 
-==Holy==
+
+==Fire==
 Spec 1 (place holder text)
 
 Spec 2
@@ -20,11 +21,11 @@ Spec 2
 Spec 3
 
 ===Glyphs===
-Placeholder
+placeholder 
 
 
 
-==Shadow==
+==Frost==
 Spec 1 (place holder text)
 
 Spec 2
@@ -32,4 +33,4 @@ Spec 2
 Spec 3
 
 ===Glyphs===
-Placeholder
+placeholder

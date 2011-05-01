@@ -1,15 +1,9 @@
-'''TS Server Address''': dasypygal.dyndns.org
+Here you will find the Rules and guidelines that the officers of Dasypygal Gentlemen use to run this experienced guild of players. We have worked hard to make it as comprehensive and flexable as we can to ensure that we as members of this community continue to have fun playing this game.
 
-[http://www.goteamspeak.com/?page=downloads Download the TeamSpeak application here]
+*[[Guild Guidelines]] : ''The guidelines we play by.''
+*[[DKP]] : ''This is the system we use for the distribution of loot in raid content.''
+*[[Raiding]] : ''This is the comprehensive list of what you need to know about raiding with DG.''
 
-==TeamSpeak How to==
-Launch the application.
-*Server Address: dasypygal.dyndns.org
-
-Name: Your Toon's Name
-
-Password: Please contact an officer  
-
-==TeamSpeak Etiquette==
-
-Please be aware that children can be on at any time. Watch your language and be respectful of everyone else. Know when it's ok to be social and when you need to keep TS clear. Move into separate channels when it makes sense to do that. When you join a new channel be sure to announce your presence when you get the opportunity (Don't be interuptive!)
+====Important Links====
+*[http://dasypygal.dyndns.org/forums/ D'Gentlemen Forums]
+*[http://dasypygal.dyndns.org/raid/ Raid Calendar]

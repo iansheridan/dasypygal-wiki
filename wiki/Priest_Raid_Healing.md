@@ -1,21 +1,17 @@
-{| align="right"
-  | __TOC__
-  |}
-'''Healing Lead: Cailleach'''
+This forum on Elitist Jerks pretty much has everything you ever wanted to know about raiding as a priest. I highly suggest giving it a look.
+
+[http://elitistjerks.com/f77/  Priest Forums at Elitist Jerks ]
 
 
+Here's a all purpose blog on WowInsider about raid healing. Enjoy!
 
-== Priest ==
-==== Priest Core Raiding Guidlines====
-
-*[[Core Raiding General Requirements]]
-
-====Holy Priest Casual Raiding Guidelines====
-
-*[[Casual Raiding General Requirements]]
+[http://wow.joystiq.com/category/raid-rx/ Raid RX]
 
 
-====Raiding Basics for Priests====
-*[[Priest Raiding]]
-*[[Common Healing Priest Raiding Specs]]
-*[[Addons for Healing Priests]]
+General Priest information on WowInsider (Spiritual Guidance)
+
+[http://wow.joystiq.com/category/spiritual-guidance/ Spiritual Guidance Blog at WowInsider]
+
+
+For our Shadow Priests this site is a wealth of information for face melting.
+[http://www.shadowpriest.com/ ShadowPriest.com]
