@@ -16,13 +16,13 @@ Our new system allows users to bid on multiple items during a single session and
 ## We wanted it to be simple and familiar.
 The essence of the system should be explainable in a couple sentences. There can still be provisions for various atypical cases and more detailed clarifications, but the system itself should not require pages of reading to understand. A lot of raiders know dkp. It also shows a clear cultural shift that we're a raiding first guild now.
 
-## We wanted it to be scalable.==
+## We wanted it to be scalable.
 Specifically, if the system values different items at different costs, it should use a steady constant -- for example item level -- instead of an arbitrary chart created for each particular instance. This way, whenever new loot or instances are introduced, there is no need to update anything or make new determinations as to what things are worth.
 
-## We want it to be fast.==
+## We want it to be fast.
 It should be quick in real-time execution. One of the biggest causes for slowdown in a raid is loot. Determining who is awarded loot should be handled quickly and efficiently.
 
-## Awarding==
+## Awarding
 One-time only seed bonus = 400 pts
 
 Boss Learning = 10 pts
@@ -56,5 +56,5 @@ This is what you use if you want something for your secondary spec or don't have
 
 ## Bid Process
 
-UPDATE: This is the addon we use to bid on items in a raid. Its required for all raiders.
-[http://www.wowace.com/addons/morg-bid2/ MorgBid2]
+UPDATE: This is the addon we use to bid on items in a raid. It is required for all raiders.
+[MorgBid 2](http://www.wowace.com/addons/morg-bid2/ MorgBid2)
