@@ -10,11 +10,11 @@
 
 
 ## Officer Guidelines
-*An officer of the guild is expected to assist members of the guild. As members are expected to help other members, so too is the officer.
+* An officer of the guild is expected to assist members of the guild. As members are expected to help other members, so too is the officer.
 
-*An officer is a representative of Dasypygal Gentlemen to all those that are not in the guild and should behave as such. This means that an officer should always be fair and cordial to others.
+* An officer is a representative of Dasypygal Gentlemen to all those that are not in the guild and should behave as such. This means that an officer should always be fair and cordial to others.
 
-*Ranks that are considered an officer are: Guild Master, Council and Jr. Officer.
+* Ranks that are considered an officer are: Guild Master, Council and Jr. Officer.
 
 
 ## FINAL DISCLAIMER
