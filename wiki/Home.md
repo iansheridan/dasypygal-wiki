@@ -4,27 +4,27 @@ We are an Alliance Guild of dwarves, gnomes and humans (oh we have a bunch of ha
 
 Mainly we are a mature group of gamers looking to have a good time. That said, we are on most evenings after 7-8 o’clock EST. 
 
-Our raid times are 8:30PM to Midnight : Server time : Monday-Thursday. 
+Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday. 
 
-'''''Dasypygal Gentlemen is the support structure that will assist the growth of your character.'''''
+__Dasypygal Gentlemen is the support structure that will assist the growth of your character.__
 
 ## D'Gentlemen General Information
 
-  *[[Our_History]]
-  *[[Ranks]]
-  *[[Officers]]
+* [[Our_History]]
+* [[Ranks]]
+* [[Officers]]
 
 ## Policies and Procedures
 
-  *[[How_to_join_D'Gentlemen]]
-  *[[Archived_Hairy_Codes]]
-  *[[Raiding]]
+* [[How_to_join_D'Gentlemen]]
+* [[Archived_Hairy_Codes]]
+* [[Raiding]]
 
 ## Current Raid Focus
 
-  *[[Blackwing_Descent]]
-  *[[Bastion_of_Twilight]]
-  *[[Throne_of_the_Four_Winds]]
+* [[Blackwing_Descent]]
+* [[Bastion_of_Twilight]]
+* [[Throne_of_the_Four_Winds]]
 
 ##  Class Guides 
 
@@ -35,17 +35,17 @@ Our raid times are 8:30PM to Midnight : Server time : Monday-Thursday.
 
 ### Class Specific Wiki's
 
-  *[[Druid]]
-  *[[Hunter]]
-  *[[Mage]]
-  *[[Paladin]]
-  *[[Priest]]
-  *[[Rogue]]
-  *[[Shaman]]
-  *[[Warlock]]
-  *[[Warrior]]
-  *[[Death_Knight]]
+* [[Druid]]
+* [[Hunter]]
+* [[Mage]]
+* [[Paladin]]
+* [[Priest]]
+* [[Rogue]]
+* [[Shaman]]
+* [[Warlock]]
+* [[Warrior]]
+* [[Death_Knight]]
 
 ## Just for Fun
 
-  *[[Famous_DG_Quotes]]
+* [[Famous_DG_Quotes]]
