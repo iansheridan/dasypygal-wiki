@@ -21,9 +21,9 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 
 ## Current Raid Focus
 
-* Blackwing_Descent
-* Bastion_of_Twilight
-* Throne_of_the_Four_Winds
+* Blackwing Descent
+* Bastion of Twilight
+* Throne of the Four Winds
 
 ##  Class Guides 
 

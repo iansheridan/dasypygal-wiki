@@ -15,4 +15,4 @@ Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 
 ## Combat Log Reports
 
-* [Raid Repors Forum](http://dasypygal.dyndns.org/forums/viewforum.php?f=26)
+* [Raid Reports Forum](http://dasypygal.dyndns.org/forums/viewforum.php?f=26)
