@@ -11,13 +11,14 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 ## D'Gentlemen General Information
 
 * [Our History](Our_History)
-* [[Ranks]]
-* [[Officers]]
+* [Guild Guidelines](Guild_Guidelines)
+* [Ranks](Ranks)
+* [Officers](Officers)
 
 ## Policies and Procedures
 
-* [[How_to_join_D'Gentlemen]]
-* [[Raiding]]
+* [How_to_join_D'Gentlemen](How_to_join_D'Gentlemen)
+* [Raiding](Raiding)
 
 ## Current Raid Focus
 
@@ -50,4 +51,4 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 
 ## Just for Fun
 
-* [[Famous_DG_Quotes]]
+* [Famous DG Quotes](Famous_DG_Quotes)

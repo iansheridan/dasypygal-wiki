@@ -1,3 +1,5 @@
+## Core Raiding General Requirements
+
 As a Core raider you are expected to have a strong working knowledge of your class and your class role in any given raid encounter.  
 
 As a Core Raider you are expected to push your class to its limits and excel at it.

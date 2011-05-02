@@ -18,12 +18,12 @@ Junior officer will be a rotating position, supplemental officers who are commit
 ## Core Raider
 Core Raider means just that -- players who are dedicated to raiding. These players will meet a stringent set of requirements, which include a set amount of weekly attendance. If you show a pattern or recent history of not meeting the requirements (vacations and personal issues aside; just make sure you notify the officers), you will be bumped to Casual rank until you can once again commit to the Core level of requirement.
 
-* [[Core_Raiding_General_Requirements]]
+* [Core Raiding General Requirements](Core_Raiding_General_Requirements)
 
 ## Casual Raider
 Casual Raiders are people who like to raid, but can't commit to a stringent schedule. There is more to being a casual RAIDER than a casual player. You must be willing to put in time to upgrade your own gear. If called upon for a raid you will be expected to have the appropriate consumables. In order to maintain the rank of Casual raider, you must attend at least four progression/gearing raids per month.
 
-* [[Casual_Raiding_General_Requirements]].
+* [Casual Raiding General Requirements](Casual_Raiding_General_Requirements)
 
 ## Non-Raiders
 Non-Raiders are players that just want to be a part of the community, and don't care so much whether they get to raid or not. You'll be able to enjoy the guild and game at your own pace, and there will never be any expectations of your time and availability. If we have an open spot for a raid and you're interested in coming, you will be able to attend, but ONLY if no one in the other ranks (not including alts) is available. This is also the default rank for players who come to raids and do NOT show the minimum level of commitment to furthering the guild (i.e. you don't bring consumables, you're wearing sub-standard gear that could have been easily upgraded via quests, badges, PVP, etc.)

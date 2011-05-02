@@ -1,3 +1,5 @@
+## Casual Raiding General Requirements
+
 Guidelines have been posted for specific class related minimum requirements for gear. 
 
 As a Casual Raider you are expected to have a willingness to learn about your class and your class role in any given raid encounter. 

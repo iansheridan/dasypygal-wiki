@@ -1,5 +1,0 @@
-## Priest
-dgpriest
-
-## Healers
-dgheal
