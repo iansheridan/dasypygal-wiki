@@ -1,3 +1,0 @@
-[http://www.worldofwarcraft.com/info/classes/priest/talents.html?5042000130500120000000234050030301150530030000000000000000000000 Common 23/38 Spec]
-
-[http://www.worldofwarcraft.com/info/classes/priest/talents.html?5042000130500000000000232050032301150530051000000000000000000000 Common 20/41 Spec]

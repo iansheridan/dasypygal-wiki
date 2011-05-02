@@ -1,9 +1,0 @@
-== Gems ==
-Once you're beyond 490 defense without a doubt the gem you'll most likely use the most will be a [http://www.wowhead.com/?item=24033 solid star of elune]. High stamina scores for a prot warrior increase your health obviously and gives healers more wiggle room by which to learn tricky encounters. Socket bonuses on most warrior gear usually don't outweigh the advantages of this gem.
-
-Tanking isn't always about being a beefcake meatshield though. Threat and rage generation are also an important part of what we do too. One of the best ways to help both threat and rage is to make sure you don't miss your targets. There are a [http://www.wowhead.com/?items=3&filter=qu=3;maxle=70;cr=95;crs=1;crv=0 few rare] and a [http://www.wowhead.com/?items=3&filter=qu=4;maxle=70;cr=95;crs=1;crv=0 few epic unique-equipped gems] that feature +hit to help you in that regard. [http://www.wowhead.com/?item=24051 Rigid Dawnstone] is the easiest to achieve and gives the highest bonus. It likely makes sense to use it since ideally you'll be going for the most bang for the buck when you opt to add in hit gems.
-
-If you're in need of defense, as a new level 70 to hit the 490 cap or perhaps even in resist gear to help mitigate some lose of def, then [http://www.wowhead.com/?item=24052 thick dawnstone] or [http://www.wowhead.com/?item=24062 enduring talasite] are the way to go. My personal preference is to lean toward the latter to work in some stamina. There are a [http://www.wowhead.com/?items=3&filter=qu=4;maxle=70;cr=42:61;crs=1:3;crv=0:0 few unique-equipped gems] from heroics that my also be on interest to you.
-
-
-== Enchants ==

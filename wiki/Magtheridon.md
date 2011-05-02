@@ -1,1 +1,0 @@
-[http://www.wowwiki.com/Magtheridon_%28tactics%29 Wowwiki.com :: Magtheridon's Lair]

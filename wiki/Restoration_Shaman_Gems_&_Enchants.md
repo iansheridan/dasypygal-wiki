@@ -1,1 +1,0 @@
-#REDIRECT [[Restoration Shaman Gems and Enchants]]

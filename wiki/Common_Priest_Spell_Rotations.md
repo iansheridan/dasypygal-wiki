@@ -1,1 +1,0 @@
-[http://elitistjerks.com/f31/t16977-shadow_priest_101_how_melt_faces_effectively/ How to Melt Faces Effectively from EJ]

@@ -17,7 +17,6 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 ## Policies and Procedures
 
 * [[How_to_join_D'Gentlemen]]
-* [[Archived_Hairy_Codes]]
 * [[Raiding]]
 
 ## Current Raid Focus

@@ -13,7 +13,7 @@ If you think that you’re a good fit culturally and raid wise for DG we encoura
 * Copy, paste and fill out the application below. Please do not skip over questions in the application. A well written, complete application goes a long way. Then email it to [dgent.applications@gmail.com](mailto:dgent.applications@gmail.com)
 * In the Subject line of your email please put your character name, level and spec/class . (ie: Cailleach 80 Holy Priest)
 * Show us a bit of your personality when filling out the application. We're here to kill bosses but we are also here to have fun!
-* Please contact Skox (Recruitment Officer) to say Hi (he gets lonely sometimes and welcomes PM's) and let him know you’re intending to apply. If Skox is unavailable please contact one of the officers in the guild http://dasypygal.dyndns.org/wiki/Officers.
+* Please contact Veldrane (Recruitment Officer) to say Hi (he gets lonely sometimes and welcomes PM's) and let him know you’re intending to apply. If Veldrane is unavailable please contact one of the officers in the guild http://dasypygal.dyndns.org/wiki/Officers.
 * You MUST also register an account on the forums, after you've registered please contact an officer so we can approve your forum account. Once your E-mail application has been received, we will post your E-mail application in the Probie Forum.
 
 Email address : [dgent.applications@gmail.com](mailto:dgent.applications@gmail.com)
