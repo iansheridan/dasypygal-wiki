@@ -1,4 +1,4 @@
-## Joining a Raid==
+## Joining a Raid
 Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 
 * [[Raiding_Ranks]]
@@ -6,7 +6,7 @@ Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 * [[Raid_Preparation]]
 
 ## Loot Distribution System
-*[[DKP]]
+* [[DKP]]
 
 ## Raiding Enhancements
 
@@ -15,4 +15,4 @@ Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 
 ## Combat Log Reports
 
-*[Raid Repors Forum](http://dasypygal.dyndns.org/forums/viewforum.php?f=26)
+* [Raid Repors Forum](http://dasypygal.dyndns.org/forums/viewforum.php?f=26)

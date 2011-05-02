@@ -6,12 +6,12 @@ If you are a non-raider or probie who is working on obtaining Casual or Core Rai
 ## How will invite priority be handled for raids?
 Invite priority for all raids (25-man) will be as follows:
 
-*GM/Council Officers (Only those classified as Core raiders)
-*Junior Officers
-*Core Raiders
-*Casual Raiders (including council officers classified as Casual)
-*Probies
-*Non-Raiders
-*Alts
+* GM/Council Officers (Only those classified as Core raiders)
+* Junior Officers
+* Core Raiders
+* Casual Raiders (including council officers classified as Casual)
+* Probies
+* Non-Raiders
+* Alts
 
 In all cases you must be logged on with your main at the time of invites. If you are logged as an alt, you will be skipped over. And remember, class/role balance trumps all invite priority.

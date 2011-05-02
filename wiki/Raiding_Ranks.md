@@ -35,7 +35,8 @@ Check your class forum for class requirements and for helpful raiding tips pleas
 
 If you show a pattern or recent history of not meeting the requirements (vacations and personal issues aside; just make sure you notify the officers), you will be bumped to Casual rank until you can once again commit to the Core level of requirement.
 
-Guidelines have been posted for specific class related minimum requirements for gear. 
+
+## What are the requirements to become a Casual Raider?
 
 As a Casual Raider you are expected to have a willingness to learn about your class and your class role in any given raid encounter. 
 
@@ -90,12 +91,19 @@ If you choose this course of action, a few things will happen. First, your curre
 If you are asked to switch your main to the benefit of the guild, you will not be put into the probie rank. You will be in a rank appropriate to your contribution, which could be as high as Core Raider, if you were already a Core Raider who was asked to switch mains for the good of the guild.
 
 #### What happens if I want to change my raid purpose?
+
 Switching raid purpose means the following:
+
 * Switching Specs from Healing to DPS 
+
 * Switching Specs from Tanking to DPS 
+
 * Switching Specs from Tanking to Healing
+
 * Switching Specs from Healing to Tanking
+
 * Switching Specs from DPS to Healing
+
 * Switching Specs from DPS to Tanking
 
 

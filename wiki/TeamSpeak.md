@@ -1,14 +1,16 @@
 TS3 Server Address: dasypygal.dyndns.org
 
-[http://www.goteamspeak.com/?page=downloads Download the TeamSpeak application here]
+[Download the TeamSpeak application here](http://www.goteamspeak.com/?page=downloads )
 
 ## TeamSpeak How to
 Launch the application.
-*Server Address: dasypygal.dyndns.org
+
+* Server Address: dasypygal.dyndns.org
 
 Name: Your Toon's Name
 
 Password: Please contact an officer  
+
 
 ## TeamSpeak Etiquette
 
