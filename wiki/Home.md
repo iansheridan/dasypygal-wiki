@@ -17,7 +17,7 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 
 ## Policies and Procedures
 
-* [How_to_join_D'Gentlemen](How_to_join_D'Gentlemen)
+* [How to join D'Gentlemen](How_to_join_D'Gentlemen)
 * [Raiding](Raiding)
 
 ## Current Raid Focus
