@@ -10,15 +10,17 @@ If you think that you’re a good fit culturally and raid wise for DG we encoura
 
 ### How to Join Dasypygal Gentlemen?
 
-* Copy, paste and fill out the application below. Please do not skip over questions in the application. A well written, complete application goes a long way. Then email it to [[dgent.applications@gmail.com|mailto:dgent.applications@gmail.com]]
+* Copy, paste and fill out the application below. Please do not skip over questions in the application. A well written, complete application goes a long way. Then email it to [dgent.applications@gmail.com](mailto:dgent.applications@gmail.com)
 * In the Subject line of your email please put your character name, level and spec/class . (ie: Cailleach 80 Holy Priest)
 * Show us a bit of your personality when filling out the application. We're here to kill bosses but we are also here to have fun!
 * Please contact Skox (Recruitment Officer) to say Hi (he gets lonely sometimes and welcomes PM's) and let him know you’re intending to apply. If Skox is unavailable please contact one of the officers in the guild http://dasypygal.dyndns.org/wiki/Officers.
 * You MUST also register an account on the forums, after you've registered please contact an officer so we can approve your forum account. Once your E-mail application has been received, we will post your E-mail application in the Probie Forum.
 
-Email address : [[dgent.applications@gmail.com|mailto:dgent.applications@gmail.com]]
+Email address : [dgent.applications@gmail.com](mailto:dgent.applications@gmail.com)
 
 Application:
+
+
 
 	1. Character's Name:
 	2. Age:
@@ -55,18 +57,20 @@ Application:
 	2. What is your favorite boss fight to heal and why?
 	3. What made you decide to play a healer?
 
-	__For Fun__
+	For Fun
 	Cats, Dogs, Fish, Pornography ?
 
 
+
 We also ask that you take a look at our guild wiki and familiarize yourself with our ranks, raiding policies and guild history.
-http://dasypygal.dyndns.org/wiki/
+[[http://dasypygal.dyndns.org/wiki/]]
 
 Another step in the right direction would be to register on our forums. We ask that you register with your Characters name, after having registered please contact an officer in game to get your forum account approved. Registration on our forums is required for all members.
 
 We look for involvement in the guild. We don’t mind a shy guild member, but we are looking for people to join our community so your participation is highly valued by all the officers of the guild both in game and on our forums. In joining us in playing this game we join you in playing this game.
 
 ### Probation Period (aka: Probie)
+
 You will start out as a Probie for the term of one month. If you haven't registered on the forums yet, you're required as a Probie member to register. Please note whether or not you register and participate on the forums are taken into account at the end of your probation period. Were not looking to drag people along in our raids.. were looking for strong players that know how to raid, laugh, read boss strats, and give 110% when raiding.
 
 
@@ -89,4 +93,4 @@ Holy Paladin
 Warlock.
 
 Again...
-If you have any questions about our raid times, history, or policies, including raid ranks expectations please visit the DG wiki at http://dasypygal.dyndns.org/wiki/
+If you have any questions about our raid times, history, or policies, including raid ranks expectations please visit the DG wiki at [[http://dasypygal.dyndns.org/wiki/]]
