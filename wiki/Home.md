@@ -25,25 +25,19 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 * Bastion of Twilight
 * Throne of the Four Winds
 
-##  Class Guides 
+## Class Forums
 
-### All Classes
+[Death Knight](http://dasypygal.dyndns.org/forums/viewforum.php?f=28)
+[Druid](http://dasypygal.dyndns.org/forums/viewforum.php?f=9)
+[Hunter](http://dasypygal.dyndns.org/forums/viewforum.php?f=10)
+[Mage](http://dasypygal.dyndns.org/forums/viewforum.php?f=11)
+[Paladin](http://dasypygal.dyndns.org/forums/viewforum.php?f=12)
+[Priest](http://dasypygal.dyndns.org/forums/viewforum.php?f=13)
+[Rogue](http://dasypygal.dyndns.org/forums/viewforum.php?f=14)
+[Shaman](http://dasypygal.dyndns.org/forums/viewforum.php?f=15)
+[Warlock](http://dasypygal.dyndns.org/forums/viewforum.php?f=16)
+[Warrior](http://dasypygal.dyndns.org/forums/viewforum.php?f=17)
 
-[[Class_Channels]] : in game chat channels for all classes and roles
-
-
-### Class Specific Wiki's
-
-* [[Druid]]
-* [[Hunter]]
-* [[Mage]]
-* [[Paladin]]
-* [[Priest]]
-* [[Rogue]]
-* [[Shaman]]
-* [[Warlock]]
-* [[Warrior]]
-* [[Death_Knight]]
 
 ## Just for Fun
 
