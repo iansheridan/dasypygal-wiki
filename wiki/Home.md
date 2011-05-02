@@ -10,7 +10,7 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 
 ## D'Gentlemen General Information
 
-* [[Our_History]]
+* [Our History](Our_History)
 * [[Ranks]]
 * [[Officers]]
 
