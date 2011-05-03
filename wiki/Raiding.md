@@ -1,3 +1,5 @@
+# Raiding
+
 ## Joining a Raid
 Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 

@@ -1,3 +1,5 @@
+# Ranks
+
 ## Guild Master
 Fenriswulf is the guild master.
 

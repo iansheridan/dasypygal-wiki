@@ -1,3 +1,5 @@
+# Raiding Ranks
+
 ## What are the requirements to become a Core Raider?
 
 As a Core raider you are expected to have a strong working knowledge of your class and your class role in any given raid encounter.  
