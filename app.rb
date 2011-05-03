@@ -12,6 +12,8 @@ require 'net/http' # is not a gem
 # put the LIB directory on the load path
 $LOAD_PATH.unshift(File.dirname(__FILE__) + '/lib')
 
+set :static, true
+
 Compass.configuration do |config|
   config.project_path = File.dirname(__FILE__)
   config.sass_dir = File.join(Sinatra::Application.views, 'sass')
