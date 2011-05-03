@@ -14,4 +14,4 @@ __Policies and Procedures__
 
 [Raiding](Raiding)
 
-[[images/Dagoth_by_Aerion-the-Faithful.jpg]]
+[[Dagoth_by_Aerion-the-Faithful.jpg]]
