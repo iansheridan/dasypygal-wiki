@@ -1,3 +1,5 @@
+# Our History
+
 Before King Magni Bronzebeard decreed that Prospectors should go forth and search for the Titans’ hidden legacies. A group of friends had been “Prospecting” on their own for years. This group of friends called themselves the “Dasypygal Gentlemen”. The leader of this group was one Dagar Bottomsworth.
 
 Surprisingly the founding members were a ragtag group of miners. Here is the story that started it all:
