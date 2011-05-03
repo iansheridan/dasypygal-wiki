@@ -13,3 +13,5 @@ __Policies and Procedures__
 [How to join D'Gentlemen](How_to_join_D'Gentlemen)
 
 [Raiding](Raiding)
+
+[[images/Dagoth_by_Aerion-the-Faithful.jpg]]
