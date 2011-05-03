@@ -1,15 +1,15 @@
 __D'Gentlemen General Information__
 
-* [Our History](Our_History)
+[Our History](Our_History)
 
-* [Guild Guidelines](Guild_Guidelines)
+[Guild Guidelines](Guild_Guidelines)
 
-* [Ranks](Ranks)
+[Ranks](Ranks)
 
-* [Officers](Officers)
+[Officers](Officers)
 
 __Policies and Procedures__
 
-* [How to join D'Gentlemen](How_to_join_D'Gentlemen)
+[How to join D'Gentlemen](How_to_join_D'Gentlemen)
 
-* [Raiding](Raiding)
+[Raiding](Raiding)
