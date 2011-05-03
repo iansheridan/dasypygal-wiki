@@ -1,3 +1,5 @@
+# Raid Sign-up and Invite Policy
+
 ## Raid Sign-up
 All Core and Casual members who wish to raid must use the in game calendar. Using the calendar lets us see who is available and what the raid composition will look like at invite time, it allows the raid leaders to know what spots we may be lacking and where we may have an excess. As always please let an officer know if you are going to be late, please do so by posting on the forums.
 

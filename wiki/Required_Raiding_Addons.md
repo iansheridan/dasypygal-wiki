@@ -1,3 +1,5 @@
+# Required Raiding Addons
+
 ## DKP
 This is the addon we use to bid on items in a raid. Its required for all raiders.
 [MorgBid2](http://www.wowace.com/addons/morg-bid2/)

@@ -1,8 +1,10 @@
+# Raiding
+
 ## Joining a Raid
 Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday.
 
 * [Raiding Ranks](Raiding_Ranks)
-* [Raid Sign-up and Invite_Policy](Raid_Sign-up_and_Invite_Policy)
+* [Raid Sign-up and Invite Policy](Raid_Sign-up_and_Invite_Policy)
 * [Raid Preparation](Raid_Preparation)
 
 ## Loot Distribution System

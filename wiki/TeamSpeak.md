@@ -1,3 +1,5 @@
+# TeamSpeak
+
 TS3 Server Address: dasypygal.dyndns.org
 
 [Download the TeamSpeak application here](http://www.goteamspeak.com/?page=downloads )

@@ -1,3 +1,5 @@
+# Guild Guidelines
+
 ## General Guidelines
 * Immature behavior outside of jest is look downed upon but will not result in any reprimand unless it is excessive. (Why is this the first rule? Because I don’t want to play with jerks. Simple as that. We are all paying to be in the game and fun should be had by all.)
 
