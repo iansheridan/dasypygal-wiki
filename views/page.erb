@@ -1,9 +1,9 @@
-<div id="wiki" class="yui-ge"><% unless @wikipage.sidebar.nil? %>
-  <div id="wiki-sidebar" class="yui-u first">
-    <%= @wikipage.sidebar.formatted_data %>
-  </div><% end %>
-  <div class="yui-u">
+<div id="wiki" class="yui-ge">
+  <div class="yui-u first">
     <%= @output %>
     <p><small>last updated: <%= @wikipage.version.authored_date %></small></p>
-  </div>
+  </div><% unless @wikipage.sidebar.nil? %>
+  <div id="wiki-sidebar" class="yui-u">
+    <%= @wikipage.sidebar.formatted_data %>
+  </div><% end %>
 </div>
