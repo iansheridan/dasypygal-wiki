@@ -1,3 +1,7 @@
-<div id="wiki">
+<div id="wiki"><% unless @output.sidebar.nil? %>
+  <div id="wiki-sidebar">
+    <%= @output.sidebar.formatted_data %>
+  </div><% end %>
   <%= @output %>
+  <p><small>last updated: <%= @wikipage.version.authored_date %></small></p>
 </div>
