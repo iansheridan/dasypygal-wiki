@@ -16,5 +16,5 @@
   end
 
   get '/wiki/images/:image' do
-    send_file File.join( settings.root, params[:image] )
+    send_file File.join( settings.root, params[:image] ), :disposition => :inline
   end
