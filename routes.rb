@@ -16,5 +16,5 @@
   end
 
   get '/wiki/images/:image' do
-    File.read(File.join( settings.root, params[:image] ))
+    File.read(File.join( Wiki.root, "public", "images", params[:image] ))
   end
