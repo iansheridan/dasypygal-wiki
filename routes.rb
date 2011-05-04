@@ -16,5 +16,5 @@
   end
 
   get '/wiki/images/:image' do
-    send_file params[:image]
+    send_file File.join( root, params[:image] )
   end
