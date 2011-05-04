@@ -14,3 +14,7 @@
     @output = @wikipage.formatted_data
     erb :page
   end
+
+  get '/wiki/images/:image' do
+    send_file params[:image]
+  end
