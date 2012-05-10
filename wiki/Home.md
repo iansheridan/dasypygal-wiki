@@ -4,7 +4,7 @@ We are an Alliance Guild of dwarves, gnomes and humans (oh we have a bunch of ha
 
 Mainly we are a mature group of gamers looking to have a good time. That said, we are on most evenings after 7-8 o’clock EST. 
 
-Our raid times are 8:30PM to Midnight : Server time : Monday-Wednesday. 
+Our raid times are 8:30PM to Midnight : Server time : Tuesday - Thursday 
 
 __Dasypygal Gentlemen is the support structure that will assist the growth of your character.__
 
@@ -22,9 +22,7 @@ __Dasypygal Gentlemen is the support structure that will assist the growth of yo
 
 ## Current Raid Focus
 
-* Blackwing Descent
-* Bastion of Twilight
-* Throne of the Four Winds
+* Dragon Soul (Heroic)
 
 ## Class Forums
 

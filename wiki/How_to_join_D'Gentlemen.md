@@ -80,17 +80,20 @@ To get full membership, the officers will talk about your involvement in guild a
 
 We are always willing to open our community to anyone that wants to join D'Gentlemen. Here is a list of classes that we need for our raiding efforts. Be aware that if you apply for a position we do not need for raiding you're not likely to find a spot in our raids.
 
-Feral Druid
+Healers :
+Shaman
+Priest
+Druid
 
-Resto Druid
-
-DPS DK
-
-Ret Paladin.
-
-Holy Paladin
-
-Warlock.
+DPS :
+Warrior
+Hunter
+Mage
+Warlock
+Paladin
+Shaman - Enh / Ele
+Druid - Feral / Boomkin
+Death Knight
 
 Again...
 If you have any questions about our raid times, history, or policies, including raid ranks expectations please visit the DG wiki at [[http://dasypygal.dyndns.org/wiki/]]

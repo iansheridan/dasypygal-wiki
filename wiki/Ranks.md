@@ -1,21 +1,16 @@
 # Ranks
 
 ## Guild Master
-Fenriswulf is the guild master.
+* Ouiija (Raid Leader & DKP Manager & Combat Logs)
 
 ## Council
 Council officers manage all guild activities and members. This is an emeritus position. Once you achieve council officer rank you hold on to it unless you choose to give it up.
 
-* Ouiija (Raid Leader & DKP Manager)
 * Kiel (CFO : Bank Manager)
-* Cailleach (Healing Lead : Raid Log & Wiki Manager)
-* Malthran
-
-## Junior Officer
-Junior officer will be a rotating position, supplemental officers who are committed to the raiding aspect of the guild. If a junior officer is no longer able to commit time to helping run and organize raids, he or she will be bumped back to an appropriate rank. As with all rank consideration, if the former officer is once again active, he or she may be moved back to junior officer rank.
-
-* Stromthor (Raid Invites & Attendance)
-* Veldrane (Recruitment Officer)
+* Rudaen (Healing Lead)
+* Torhment (Recruitment Officer)
+* Cailleach (Attendance Drone & Wiki Manager & Illustrator)
+* Fenriswulf (No Clue)
 
 ## Core Raider
 Core Raider means just that -- players who are dedicated to raiding. These players will meet a stringent set of requirements, which include a set amount of weekly attendance. If you show a pattern or recent history of not meeting the requirements (vacations and personal issues aside; just make sure you notify the officers), you will be bumped to Casual rank until you can once again commit to the Core level of requirement.

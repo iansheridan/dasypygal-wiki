@@ -2,7 +2,7 @@
 
 ## Guild Master
 
-__Fenriswulf__ : "I can haz TPS?"
+__Ouiija__ : "is canadian... enuf said"
 
 ## Council
 
@@ -10,12 +10,8 @@ __Cailleach__ : "types like a newb"
 
 __Kiel__ : "I haz thunderfury"
 
-__Ouiija__ : "is canadian... enuf said"
+__Torhment__ : "Dr. Frank-N-Furter"
 
-__Malthran__ : "the fans don't pay to see Malthran hold back"
+__Fenriswulf__ : "I can haz TPS?"
 
-## Junior Officers
-
-__Stromthor__ : "must... shoot stuff in the face"
-
-__Veldrane__ : "$250"
+__Rudaen__ : "Sand"
