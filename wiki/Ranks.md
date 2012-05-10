@@ -8,8 +8,9 @@ Council officers manage all guild activities and members. This is an emeritus po
 
 * Kiel (CFO : Bank Manager)
 * Rudaen (Healing Lead)
-* Torhment (Recruitment Officer)
-* Cailleach (Attendance Drone & Wiki Manager & Illustrator)
+* Veldrane (Recruitment Officer)
+* Torhment (Recruitment Officer Jr.)
+* Cailleach (Attendance Drone & Wiki Manager & Illustrator & Ouiija Harassment Team President )
 * Fenriswulf (No Clue)
 
 ## Core Raider
